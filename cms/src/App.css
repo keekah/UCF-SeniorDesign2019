@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+#keeks {
+  background-color: #343a40!important;
+}
+
+#project-search-button {
+  background-color: #ffc904;
+  color: #000;
+  border-color: #ffc904;
+  margin-left: 0.5rem;
+}
+
+#submit-button {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jumbotron {
+	padding-top: 1rem!important;
+	padding-bottom: 1rem!important;
+}
+
+#hec {
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#heinrich {
+  border-radius: 8px;
+}
+
+#project-header:before {
+  height: 100%;
+  vertical-align: bottom;
+  display: inline-block;
+  content: "";
+}

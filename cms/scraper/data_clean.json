@@ -1,0 +1,6204 @@
+{
+  "Summer 2019": {
+    "Senior Design 1": [],
+    "Senior Design 2": [
+      {
+        "group number": "1",
+        "group name": "P.E.A.R. 2.0",
+        "members": [
+          "Abigail Alperovich",
+          "Nadia Khederoo",
+          "Salwa Marzan",
+          "Keira Taylor",
+          "Sarah Thompson"
+        ],
+        "emails": [
+          "abby.alps@knights.ucf.edu",
+          "nkhederoo@knights.ucf.edu",
+          "smarzan@knights.ucf.edu",
+          "kibbitintheknight@knights.ucf.edu",
+          "thompsonsj4@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=624"
+        },
+        "presentation": {
+          "name": "Final_Presentation.pptx",
+          "link": "submitdownload.php?fileid=625"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=626"
+        },
+        "timestamp": "2019-07-26 23:24:39"
+      },
+      {
+        "group number": "2",
+        "group name": "Gamification of Tasks via AR",
+        "members": [
+          "Angel Castillo",
+          "Christian Jaimes",
+          "Daniel Klishin",
+          "Maryam Ramezanzadehmoghadam",
+          "John Yang"
+        ],
+        "emails": [
+          "castillo.angel@knights.ucf.edu",
+          "chrisjaimes@knights.ucf.edu",
+          "danik9970711@knights.ucf.edu",
+          "m.moghadam@knights.ucf.edu",
+          "j.a.yang@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "",
+          "link": ""
+        },
+        "presentation": {
+          "name": "",
+          "link": ""
+        },
+        "conference paper": {
+          "name": "",
+          "link": ""
+        },
+        "timestamp": "2019-07-29 10:10:00"
+      },
+      {
+        "group number": "3",
+        "group name": "Limbitless Solutions Inc. Arduino IDE Integration",
+        "members": [
+          "Geoff Hufford",
+          "Alexander McLaughlin",
+          "David Portz",
+          "Trevor Tosi",
+          "Steve Weiser"
+        ],
+        "emails": [
+          "ahufford92@gmail.com",
+          "alex.mclaughlin@knights.ucf.edu",
+          "dportz@knights.ucf.edu",
+          "nightchase@knights.ucf.edu",
+          "weiser.steven369@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "SR DESIGN FINAL DOC.pdf",
+          "link": "submitdownload.php?fileid=618"
+        },
+        "presentation": {
+          "name": "SR DESIGN FINAL PRES.pptx",
+          "link": "submitdownload.php?fileid=619"
+        },
+        "conference paper": {
+          "name": "SR DESIGN CONF PAPER.pdf",
+          "link": "submitdownload.php?fileid=620"
+        },
+        "timestamp": "2019-07-26 00:14:40"
+      },
+      {
+        "group number": "4",
+        "group name": "Senior Design Scheduling Algorithm and CMS",
+        "members": [
+          "Tyler  Cuervo",
+          "Mariana Gomez Kusnecov",
+          "Stephen  Powell",
+          "Iryna Protasova",
+          "Kika Wingert"
+        ],
+        "emails": [
+          "cuervotyler1@gmail.com",
+          "Marianagomezk@outlook.com",
+          "stephenmpowell4@gmail.com",
+          "irynaprotasova@gmail.com",
+          "kika@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "group_4_final_doc.pdf",
+          "link": "submitdownload.php?fileid=621"
+        },
+        "presentation": {
+          "name": "Group 4 Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=622"
+        },
+        "conference paper": {
+          "name": "group_4_conf_paper.pdf",
+          "link": "submitdownload.php?fileid=623"
+        },
+        "timestamp": "2019-07-26 18:14:02"
+      },
+      {
+        "group number": "5",
+        "group name": "Sr. Design Webcourses Improvements",
+        "members": [
+          "Vincent Brusco",
+          "Ayleen Cabrera Ordaz",
+          "Frantzcito Joseph",
+          "Mahzain Malik",
+          "Kevin Parisapogu"
+        ],
+        "emails": [
+          "vbrusco@knights.ucf.edu",
+          "cabreraordaz@knights.ucf.edu",
+          "frantzcito@knights.ucf.edu",
+          "mahzain@knights.ucf.edu",
+          "kevparisapogu@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "",
+          "link": ""
+        },
+        "presentation": {
+          "name": "",
+          "link": ""
+        },
+        "conference paper": {
+          "name": "",
+          "link": ""
+        },
+        "timestamp": "2019-07-29 10:10:00"
+      }
+    ]
+  },  
+  "Spring 2019": {
+    "Senior Design 1": [],
+    "Senior Design 2": [
+      {
+        "group number": "1",
+        "group name": "JAI Composer",
+        "members": [
+          "Jake Knudson",
+          "Andrew Morse",
+          "Daniel Schiff",
+          "Jose  Silveti"
+        ],
+        "emails": [
+          "jake41397@gmail.com",
+          "contactandrewmorse@gmail.com",
+          "daniel.schiff1995@gmail.com",
+          "josersilveti27@gmail.com"
+        ],
+        "final doc": {
+          "name": "JAIComposerSD2.pdf",
+          "link": "submitdownload.php?fileid=576"
+        },
+        "presentation": {
+          "name": "JAI Composer Commitee Presentation.pptx",
+          "link": "submitdownload.php?fileid=577"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=578"
+        },
+        "timestamp": "2019-04-22 17:48:53"
+      },
+      {
+        "group number": "2",
+        "group name": "Synesthetic Music Visualizer",
+        "members": [
+          "Benjamin Hebert",
+          "Conner Kaye",
+          "Daniel Keller",
+          "Gianlouie  Molinary",
+          "Michael Ramirez"
+        ],
+        "emails": [
+          "bhebert26@gmail.com",
+          "Connerkaye1@gmail.com",
+          "danielkeller97@gmail.com",
+          "gianlouier97@knights.ucf.edu",
+          "mramirez20@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "COP 4935 Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=516"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=517"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=518"
+        },
+        "timestamp": "2019-04-17 21:55:30"
+      },
+      {
+        "group number": "3",
+        "group name": "Bellows - Data Compression Research",
+        "members": [
+          "Ryan Beck",
+          "Jay Brown",
+          "Isaac Ehlers",
+          "Claudie Milien"
+        ],
+        "emails": [
+          "ryanwb2@knights.ucf.edu",
+          "jbrown32597@knights.ucf.edu",
+          "isaacehlers@knights.ucf.edu",
+          "qclaudie@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Group 3 Bellows Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=570"
+        },
+        "presentation": {
+          "name": "Group 3 Bellows Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=571"
+        },
+        "conference paper": {
+          "name": "Group 3 Bellows Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=572"
+        },
+        "timestamp": "2019-04-22 12:27:35"
+      },
+      {
+        "group number": "4",
+        "group name": "Real Estate Autonomous Video Drone",
+        "members": [
+          "Peter Castro",
+          "Samantha Morris",
+          "Brigit  Murtaugh",
+          "Andres Perez"
+        ],
+        "emails": [
+          "castropeter21@knights.ucf.edu",
+          "samantha.morris@knights.ucf.edu",
+          "bamurtaugh@knights.ucf.edu",
+          "aperez1204@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Document SDII.pdf",
+          "link": "submitdownload.php?fileid=453"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=454"
+        },
+        "conference paper": {
+          "name": "Edited Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=455"
+        },
+        "timestamp": "2019-04-12 11:30:00"
+      },
+      {
+        "group number": "5",
+        "group name": "ELLE Ultimate",
+        "members": [
+          "Kalonte Jackson-Tate",
+          "Eugene Lucino",
+          "Christopher Rodbourne",
+          "Josh Sewnath",
+          "Patrick Thompson"
+        ],
+        "emails": [
+          "Kalontet@knights.ucf.edu",
+          "eugenerbl@gmail.com",
+          "chr.rodbourne@gmail.com",
+          "Ysewnath@knights.ucf.edu",
+          "patrick.cs@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "FDDvf.pdf",
+          "link": "submitdownload.php?fileid=510"
+        },
+        "presentation": {
+          "name": "ELLE Ultimate Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=511"
+        },
+        "conference paper": {
+          "name": "SDCP.pdf",
+          "link": "submitdownload.php?fileid=512"
+        },
+        "timestamp": "2019-04-17 21:24:47"
+      },
+      {
+        "group number": "6",
+        "group name": "NASA SEE",
+        "members": [
+          "Michael Armijo",
+          "Kate Barr",
+          "Jordan Martin",
+          "John Sermarini"
+        ],
+        "emails": [
+          "michael.armijo@knights.ucf.edu",
+          "k_barr@knights.ucf.edu",
+          "jomartin336@Knights.ucf.edu",
+          "JohnSermarini@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "NASA SEE Final Design Document - Spring.pdf",
+          "link": "submitdownload.php?fileid=552"
+        },
+        "presentation": {
+          "name": "NASA SEE Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=553"
+        },
+        "conference paper": {
+          "name": "Autonomous In-Situ Resource Utilization on the Moon.pdf",
+          "link": "submitdownload.php?fileid=554"
+        },
+        "timestamp": "2019-04-21 20:56:47"
+      },
+      {
+        "group number": "7",
+        "group name": "NASA EZ-RASSOR (Part 1 of 2)",
+        "members": [
+          "Ronald Marrero",
+          "Sean Rapp",
+          "Tiger Sachse",
+          "Christopher Taliaferro",
+          "Cameron Taylor"
+        ],
+        "emails": [
+          "ronald.marrero@knights.ucf.edu",
+          "seanprapp@gmail.com",
+          "tgsachse@gmail.com",
+          "guitartaliaferro@knights.ucf.edu",
+          "cetaylor758903@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "FINAL DESIGN DOCUMENT.pdf",
+          "link": "submitdownload.php?fileid=486"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=487"
+        },
+        "conference paper": {
+          "name": "EZ_RASSOR_Short_Paper.pdf",
+          "link": "submitdownload.php?fileid=488"
+        },
+        "timestamp": "2019-04-16 14:49:25"
+      },
+      {
+        "group number": "8",
+        "group name": "NASA EZ-RASSOR (Part 2 of 2)",
+        "members": [
+          "Harrison Black",
+          "Tyler Duncan",
+          "Lucas Gonzalez",
+          "Samuel Lewis",
+          "Camilo Lozano"
+        ],
+        "emails": [
+          "harrison.w.black@knights.ucf.edu",
+          "tduncan13@knights.ucf.edu",
+          "lcgonzalez@knights.ucf.edu",
+          "samuel.lewis@knights.ucf.edu",
+          "clozano@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "FINAL DESIGN DOCUMENT.pdf",
+          "link": "submitdownload.php?fileid=489"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=490"
+        },
+        "conference paper": {
+          "name": "EZ_RASSOR_Short_Paper.pdf",
+          "link": "submitdownload.php?fileid=491"
+        },
+        "timestamp": "2019-04-16 14:52:15"
+      },
+      {
+        "group number": "9",
+        "group name": "Arcade GRASS (Knights Arcade)",
+        "members": [
+          "Armand Alvarez",
+          "Drew Corbiel",
+          "Yitzak Hernandez",
+          "Scott Kramarz",
+          "Jonathan Navas"
+        ],
+        "emails": [
+          "aalvarez97@knights.ucf.edu",
+          "Drewc273@gmail.com",
+          "yitzak.hernandez@gmail.com",
+          "scott.kramarz@gmail.com",
+          "jon061495@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Documentation.pdf",
+          "link": "submitdownload.php?fileid=612"
+        },
+        "presentation": {
+          "name": "pres powerpnt.pdf",
+          "link": "submitdownload.php?fileid=613"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=614"
+        },
+        "timestamp": "2019-04-29 14:34:05"
+      },
+      {
+        "group number": "10",
+        "group name": "Deloitte Agile Central Command",
+        "members": [
+          "Leonardo Araque",
+          "Kyle Capehart",
+          "Tuan Pham",
+          "Katherine Rosenfeld",
+          "Lee Wildes"
+        ],
+        "emails": [
+          "abaeous@knights.ucf.edu",
+          "kylecapehart@knights.ucf.edu",
+          "tuanvpham32@outlook.com",
+          "katerose@knights.ucf.edu",
+          "leeawildes@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "FinalDocument.pdf",
+          "link": "submitdownload.php?fileid=474"
+        },
+        "presentation": {
+          "name": "DACC.pdf",
+          "link": "submitdownload.php?fileid=475"
+        },
+        "conference paper": {
+          "name": "ProjectConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=476"
+        },
+        "timestamp": "2019-04-15 22:15:44"
+      },
+      {
+        "group number": "11",
+        "group name": "Mangrove",
+        "members": [
+          "Ot Gabaldon Torrents",
+          "Keith Guske",
+          "David Palumbo",
+          "Joshua Pollmann",
+          "Brita Ramsay"
+        ],
+        "emails": [
+          "gabaldonot@gmail.com",
+          "keith.guske@knights.ucf.edu",
+          "dpalumbo@knights.ucf.edu",
+          "joshpollmann102@gmail.com",
+          "britaramsay@gmail.com"
+        ],
+        "final doc": {
+          "name": "designDoc.pdf",
+          "link": "submitdownload.php?fileid=522"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=523"
+        },
+        "conference paper": {
+          "name": "conferencePaper.pdf",
+          "link": "submitdownload.php?fileid=524"
+        },
+        "timestamp": "2019-04-18 11:30:17"
+      },
+      {
+        "group number": "12",
+        "group name": "3D Arm Creation",
+        "members": [
+          "Steve Dang",
+          "Abdul Isleem",
+          "Charlene Juvida",
+          "Alexander Kyprianou",
+          "Mark Poulsen"
+        ],
+        "emails": [
+          "stevedang125@gmail.com",
+          "abe_isleem@knights.ucf.edu",
+          "charlenemayy@gmail.com",
+          "a.kyprianou@limbitless-solutions.org",
+          "mjpoulsen91@gmail.com"
+        ],
+        "final doc": {
+          "name": "Combined Final Design Doc.pdf",
+          "link": "submitdownload.php?fileid=465"
+        },
+        "presentation": {
+          "name": "Senior Design Final Presentation_compressed.pdf",
+          "link": "submitdownload.php?fileid=466"
+        },
+        "conference paper": {
+          "name": "conferencePaper.pdf",
+          "link": "submitdownload.php?fileid=467"
+        },
+        "timestamp": "2019-04-15 15:33:09"
+      },
+      {
+        "group number": "13",
+        "group name": "The MediChain",
+        "members": [
+          "Jenny Belvin",
+          "Elizabeth Briley",
+          "Christopher Nastovski",
+          "Brody Nissen",
+          "Christian Whitted"
+        ],
+        "emails": [
+          "JBelvin15@gmail.com",
+          "lizzybriley@gmail.com",
+          "cbnastovski@gmail.com",
+          "bnissen64@gmail.com",
+          "cwhitted2@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Senior Design Document (3).pdf",
+          "link": "submitdownload.php?fileid=564"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=565"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=566"
+        },
+        "timestamp": "2019-04-22 08:33:10"
+      },
+      {
+        "group number": "14",
+        "group name": "Middle Passage: A VR Slavery Experience",
+        "members": [
+          "Devin Barron",
+          "Elizabeth Maspoch",
+          "Yuri Rubio",
+          "Nathan Tackett",
+          "Sara Young"
+        ],
+        "emails": [
+          "barrond97@yahoo.com",
+          "maspochelizabeth@yahoo.com",
+          "Yurirb9@gmail.com",
+          "nathantackett95@gmail.com",
+          "snyoung1997@gmail.com"
+        ],
+        "final doc": {
+          "name": "SD II Final Design Doc.pdf",
+          "link": "submitdownload.php?fileid=537"
+        },
+        "presentation": {
+          "name": "SD Showcase slides.pdf",
+          "link": "submitdownload.php?fileid=538"
+        },
+        "conference paper": {
+          "name": "Group 14 - Senior Design Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=539"
+        },
+        "timestamp": "2019-04-19 11:50:45"
+      },
+      {
+        "group number": "15",
+        "group name": "StarCraft II Deep Learning (Black Team)",
+        "members": [
+          "Pablo Beltran",
+          "Tyler Clark",
+          "Alex Coleman",
+          "Tyler  Cudnohufsky ",
+          "Brandon Orooji"
+        ],
+        "emails": [
+          "pabbelt@gmail.com",
+          "notstarlite@gmail.com",
+          "alexrcoleman13@gmail.com",
+          "starxscreamx@gmail.com",
+          "brandonorooji@gmail.com"
+        ],
+        "final doc": {
+          "name": "UCF_SC2_Project_Proposal.pdf",
+          "link": "submitdownload.php?fileid=558"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=559"
+        },
+        "conference paper": {
+          "name": "UCF_SC2_15_Conference_Paper.pdf",
+          "link": "submitdownload.php?fileid=560"
+        },
+        "timestamp": "2019-04-21 23:50:37"
+      },
+      {
+        "group number": "16",
+        "group name": "Deeply Reinforcing Pesticides by Way of the Marine Corps",
+        "members": [
+          "Jackson Boyd",
+          "Xuehui Chen",
+          "Bradley Coles",
+          "Hunter Hayes",
+          "John Muchovej"
+        ],
+        "emails": [
+          "jacksonboyd@knights.ucf.edu",
+          "xuehui.chen@knights.ucf.edu",
+          "bcoles@knights.ucf.edu",
+          "hunterhayes@knights.ucf.edu",
+          "j+edu@ionlights.com"
+        ],
+        "final doc": {
+          "name": "docs-drl-sc2.pdf",
+          "link": "submitdownload.php?fileid=588"
+        },
+        "presentation": {
+          "name": "pres-drl-sc2.pdf",
+          "link": "submitdownload.php?fileid=589"
+        },
+        "conference paper": {
+          "name": "conf-drl-sc2.pdf",
+          "link": "submitdownload.php?fileid=590"
+        },
+        "timestamp": "2019-04-23 18:05:29"
+      },
+      {
+        "group number": "17",
+        "group name": "StarCraft II AI",
+        "members": [
+          "Ming Jiang",
+          "Jared Johansson",
+          "John Mirschel",
+          "Jacob Sage",
+          "Bennett Thompson"
+        ],
+        "emails": [
+          "mingjiang@knights.ucf.edu",
+          "jaredjohans@knights.ucf.edu",
+          "john.mirschel@knights.ucf.edu",
+          "jsage@knights.ucf.edu",
+          "b.thompson@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final_Design_Doc.pdf",
+          "link": "submitdownload.php?fileid=456"
+        },
+        "presentation": {
+          "name": "final_presentation.pptx",
+          "link": "submitdownload.php?fileid=457"
+        },
+        "conference paper": {
+          "name": "conference_paper.pdf",
+          "link": "submitdownload.php?fileid=458"
+        },
+        "timestamp": "2019-04-14 22:10:23"
+      },
+      {
+        "group number": "18",
+        "group name": "Red Lobster Voice",
+        "members": [
+          "Muhammad Ahmed",
+          "Haerunnisa Dewindita",
+          "Taylor Knight",
+          "Philip Lang",
+          "Subhash Naidu"
+        ],
+        "emails": [
+          "ahmed.muhammad0908@gmail.com",
+          "dita.dewindita@gmail.com",
+          "Trknight@knights.ucf.edu",
+          "langp2016@gmail.com",
+          "Subhash3497@gmail.com"
+        ],
+        "final doc": {
+          "name": "Senior Design Document.pdf",
+          "link": "submitdownload.php?fileid=540"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=541"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=542"
+        },
+        "timestamp": "2019-04-19 14:19:48"
+      },
+      {
+        "group number": "19",
+        "group name": "Red Lobster Machine Learning",
+        "members": [
+          "Connor Black",
+          "Matthew Britzius",
+          "Nathan Dabu",
+          "Jonathan Guilbe",
+          "Mark Kenneth Alano"
+        ],
+        "emails": [
+          "cnblack@knights.ucf.edu",
+          "mattbritzius@knights.ucf.edu ",
+          "dabu@knights.ucf.edu",
+          "jguilbe@knights.ucf.edu",
+          "kenteralano1@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Document Second Semester.pdf",
+          "link": "submitdownload.php?fileid=555"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=556"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=557"
+        },
+        "timestamp": "2019-04-21 22:25:39"
+      },
+      {
+        "group number": "20",
+        "group name": "Silent Aluminum Fishing Boat",
+        "members": [
+          "Kiara Crawford",
+          "Warren Oliver",
+          "Jonathan Ponader"
+        ],
+        "emails": [
+          "kiarac1219@gmail.com",
+          "warrenoliver@knights.ucf.edu",
+          "samponader@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Senior Design Doc.pdf",
+          "link": "submitdownload.php?fileid=495"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=496"
+        },
+        "conference paper": {
+          "name": "SD Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=497"
+        },
+        "timestamp": "2019-04-17 11:59:45"
+      },
+      {
+        "group number": "21",
+        "group name": "Robot Assisted Flange Tool (RAFT), \"The Cobot\"",
+        "members": [
+          "Sopheap Chea",
+          "Deepak Gunturu",
+          "Tyler  Teixeira"
+        ],
+        "emails": [
+          "sopheap.sok23@knights.ucf.edu",
+          "deepakkumar.gunturu@knights.ucf.edu",
+          "teixeira@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Semester 2 Final Design.pdf",
+          "link": "submitdownload.php?fileid=531"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=532"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=533"
+        },
+        "timestamp": "2019-04-19 01:36:28"
+      },
+      {
+        "group number": "22",
+        "group name": "Aerial Vehicle with Autonomous Stealth Tether - Blue Team",
+        "members": [
+          "Chandler Douglas",
+          "Matthew Fraley"
+        ],
+        "emails": [
+          "chandlerdgls@gmail.com",
+          "mattfraley@outlook.com"
+        ],
+        "final doc": {
+          "name": "Senior Design II Final Document (Full).pdf",
+          "link": "submitdownload.php?fileid=591"
+        },
+        "presentation": {
+          "name": "CDR.pdf",
+          "link": "submitdownload.php?fileid=592"
+        },
+        "conference paper": {
+          "name": "Senior Design II Final Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=593"
+        },
+        "timestamp": "2019-04-23 22:39:59"
+      },
+      {
+        "group number": "23",
+        "group name": "Lockheed Martin AVAST Magenta",
+        "members": [
+          "Philip Leong",
+          "Matthew Nipper"
+        ],
+        "emails": [
+          "dunden@knights.ucf.edu",
+          "mattnipper@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "final paper.pdf",
+          "link": "submitdownload.php?fileid=582"
+        },
+        "presentation": {
+          "name": "CDR Presentation.pdf",
+          "link": "submitdownload.php?fileid=583"
+        },
+        "conference paper": {
+          "name": "cPaper.pdf",
+          "link": "submitdownload.php?fileid=584"
+        },
+        "timestamp": "2019-04-22 23:23:21"
+      },
+      {
+        "group number": "24",
+        "group name": "AVAST (Yellow Team)",
+        "members": [
+          "Anthony Rissi"
+        ],
+        "emails": [
+          "arissi@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "MS6_GOLD.pdf",
+          "link": "submitdownload.php?fileid=606"
+        },
+        "presentation": {
+          "name": "Final_CDR.pdf",
+          "link": "submitdownload.php?fileid=607"
+        },
+        "conference paper": {
+          "name": "AVAST_conf_paper_Anthony.pdf",
+          "link": "submitdownload.php?fileid=608"
+        },
+        "timestamp": "2019-04-28 21:15:41"
+      },
+      {
+        "group number": "25",
+        "group name": "Aerial Vehicle with Autonomous Stealth Tether",
+        "members": [
+          "Juan Zambrano",
+          "Jordan Zhu"
+        ],
+        "emails": [
+          "jpzp95@gmail.com",
+          "jordan.zhu@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "AVAST_Final.pdf",
+          "link": "submitdownload.php?fileid=615"
+        },
+        "presentation": {
+          "name": "BLACK_04.14.19 LM copy.pdf",
+          "link": "submitdownload.php?fileid=616"
+        },
+        "conference paper": {
+          "name": "AVAST_Final.pdf",
+          "link": "submitdownload.php?fileid=617"
+        },
+        "timestamp": "2019-04-29 14:41:04"
+      },
+      {
+        "group number": "26",
+        "group name": "E-GOAT Blue",
+        "members": [
+          "Ty Abbott",
+          "Michael Braddy",
+          "Brian Huang",
+          "Andrew Spooner"
+        ],
+        "emails": [
+          "ty.abbott@Knights.ucf.edu",
+          "mbraddy@Knights.ucf.edu",
+          "brianhuang@Knights.ucf.edu",
+          "spooner148@Knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "combinepdf.pdf",
+          "link": "submitdownload.php?fileid=480"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=481"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=482"
+        },
+        "timestamp": "2019-04-16 01:24:18"
+      },
+      {
+        "group number": "28",
+        "group name": "EGOAT: Green Team",
+        "members": [
+          "Matthew Drabek",
+          "Carson Miller",
+          "Connor Smith",
+          "Umadatt Tiwari"
+        ],
+        "emails": [
+          "matthewdrabek@gmail.com",
+          "carsondm@gmail.com",
+          "zeterous@gmail.com",
+          "umadapuma@gmail.com"
+        ],
+        "final doc": {
+          "name": "finalDoc.pdf",
+          "link": "submitdownload.php?fileid=561"
+        },
+        "presentation": {
+          "name": "Final SD Presentation.pdf",
+          "link": "submitdownload.php?fileid=562"
+        },
+        "conference paper": {
+          "name": "conferencePaper.pdf",
+          "link": "submitdownload.php?fileid=563"
+        },
+        "timestamp": "2019-04-22 00:33:59"
+      },
+      {
+        "group number": "30",
+        "group name": "Augmented Reality Technical Documentation",
+        "members": [
+          "Alex Acevedo",
+          "Daniel Ohana",
+          "Joseph Peaden",
+          "Joshua Yandell"
+        ],
+        "emails": [
+          "alexacevedo1995@knights.ucf.edu",
+          "danny.ohana@knights.ucf.edu",
+          "joe.peaden@knights.ucf.edu",
+          "joshua.yandell@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Documentation.pdf",
+          "link": "submitdownload.php?fileid=459"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=460"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=461"
+        },
+        "timestamp": "2019-04-15 01:11:18"
+      },
+      {
+        "group number": "31",
+        "group name": "FPL Drone",
+        "members": [
+          "Matthew Alvarez",
+          "Jacob Kerner",
+          "Joshua Smyrski"
+        ],
+        "emails": [
+          "matt@mattjalvarez.com",
+          "Jacob.kerner@knights.ucf.edu",
+          "joshsmyrski@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=528"
+        },
+        "presentation": {
+          "name": "CDR.pdf",
+          "link": "submitdownload.php?fileid=529"
+        },
+        "conference paper": {
+          "name": "Conference Paper FPL Drone.pdf",
+          "link": "submitdownload.php?fileid=530"
+        },
+        "timestamp": "2019-04-18 17:55:58"
+      },
+      {
+        "group number": "34",
+        "group name": "Equipment Detection for FPL",
+        "members": [
+          "Brandon Barkes",
+          "Eloy Gonzalez",
+          "Alexander Matasa"
+        ],
+        "emails": [
+          "bbarkes@knights.ucf.edu",
+          "eloygonzalez@knights.ucf.edu",
+          "alexmatasa@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "DesignDoc.pdf",
+          "link": "submitdownload.php?fileid=567"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=568"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=569"
+        },
+        "timestamp": "2019-04-22 10:34:38"
+      },
+      {
+        "group number": "35",
+        "group name": "Solar-Powered Autonomous Buggy",
+        "members": [
+          "John Balbuza",
+          "Derek Goodwin",
+          "Austin Pelletier"
+        ],
+        "emails": [
+          "jbalbuza@knights.ucf.edu",
+          "derek.goodwin@knights.ucf.edu",
+          "austinpell97@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "SeniorDesign35CSFinal.pdf",
+          "link": "submitdownload.php?fileid=525"
+        },
+        "presentation": {
+          "name": "CDR (1).pdf",
+          "link": "submitdownload.php?fileid=526"
+        },
+        "conference paper": {
+          "name": "ABConfPaper.pdf",
+          "link": "submitdownload.php?fileid=527"
+        },
+        "timestamp": "2019-04-18 17:08:34"
+      },
+      {
+        "group number": "38",
+        "group name": "Drone Based Microgravity Red Team",
+        "members": [
+          "Jacob Chaulk",
+          "Thomas Cleary"
+        ],
+        "emails": [
+          "chaulk.jacob@knights.ucf.edu",
+          "clearyt@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "CS Final Design Document Word.pdf",
+          "link": "submitdownload.php?fileid=477"
+        },
+        "presentation": {
+          "name": "FINAL CS CDR Presentation.pptx",
+          "link": "submitdownload.php?fileid=478"
+        },
+        "conference paper": {
+          "name": "Drone Based Microgravity.pdf",
+          "link": "submitdownload.php?fileid=479"
+        },
+        "timestamp": "2019-04-16 00:33:25"
+      },
+      {
+        "group number": "39",
+        "group name": "Microgravity Drone",
+        "members": [
+          "Brandon Haynes",
+          "Alexander Hunt"
+        ],
+        "emails": [
+          "bhaynes17395@knights.ucf.edu",
+          "alexhunt@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "final design documentation.pdf",
+          "link": "submitdownload.php?fileid=519"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=520"
+        },
+        "conference paper": {
+          "name": "Group 39 Microgravity drone Confrence Paper.pdf",
+          "link": "submitdownload.php?fileid=521"
+        },
+        "timestamp": "2019-04-18 10:39:22"
+      },
+      {
+        "group number": "40",
+        "group name": "Drone Based Microgravity (Blue Team)",
+        "members": [
+          "Alvin Kangoo",
+          "Christian Phillips"
+        ],
+        "emails": [
+          "alvinkangoo@gmail.com",
+          "phillics@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Report CS.pdf",
+          "link": "submitdownload.php?fileid=597"
+        },
+        "presentation": {
+          "name": "Final Presentation for SD2 April 2019 - Copy.pptx",
+          "link": "submitdownload.php?fileid=598"
+        },
+        "conference paper": {
+          "name": "SDCP.Format.pdf",
+          "link": "submitdownload.php?fileid=599"
+        },
+        "timestamp": "2019-04-25 22:56:55"
+      },
+      {
+        "group number": "41",
+        "group name": "Virtually No Tag",
+        "members": [
+          "Steven Chen",
+          "Sean Lee",
+          "Meredith Pyrich",
+          "Philip Rodriguez",
+          "Collin Speight"
+        ],
+        "emails": [
+          "chensteven8899@gmail.com",
+          "seanathanmlee@gmail.com",
+          "meredithrpyrich@gmail.com",
+          "philipjamesrodriguez@gmail.com",
+          "collin.speight@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Design Document - Group 41.pdf",
+          "link": "submitdownload.php?fileid=513"
+        },
+        "presentation": {
+          "name": "Final Presentation - Group 41.pptx",
+          "link": "submitdownload.php?fileid=514"
+        },
+        "conference paper": {
+          "name": "Conference Paper - Group 41.pdf",
+          "link": "submitdownload.php?fileid=515"
+        },
+        "timestamp": "2019-04-17 21:38:13"
+      },
+      {
+        "group number": "42",
+        "group name": "Dynamic Transaction Handlers and Containers",
+        "members": [
+          "Sasuke Hirano",
+          "Christofer Padilla",
+          "Richard Snyder",
+          "Hugens Ulysse"
+        ],
+        "emails": [
+          "hiranosasuke@gmail.com",
+          "christoferpadilla@gmail.com",
+          "richardwsnyder2016@gmail.com",
+          "hugens25@yahoo.com"
+        ],
+        "final doc": {
+          "name": "Senior Design Doc.pdf",
+          "link": "submitdownload.php?fileid=534"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=535"
+        },
+        "conference paper": {
+          "name": "conferencePaper.pdf",
+          "link": "submitdownload.php?fileid=536"
+        },
+        "timestamp": "2019-04-19 11:43:03"
+      },
+      {
+        "group number": "43",
+        "group name": "Carebit",
+        "members": [
+          "Ben Faria",
+          "Ian Harvey",
+          "Guensly Louis",
+          "Zach Shea",
+          "David Taylor"
+        ],
+        "emails": [
+          "benfaria_96@yahoo.com",
+          "ianharvey95@gmail.com",
+          "ideecee101@gmail.com",
+          "zacharyshea@icloud.com",
+          "davehtaylor@me.com"
+        ],
+        "final doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=543"
+        },
+        "presentation": {
+          "name": "CDR Slide Deck.pdf",
+          "link": "submitdownload.php?fileid=544"
+        },
+        "conference paper": {
+          "name": "Carebit Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=545"
+        },
+        "timestamp": "2019-04-20 16:12:43"
+      },
+      {
+        "group number": "44",
+        "group name": "Chronicling America Parser",
+        "members": [
+          "Angel Chacon",
+          "Ricardo Pulido",
+          "Cole Silvernail"
+        ],
+        "emails": [
+          "angelchacon1011@gmail.com",
+          "ricardopulido21@knights.ucf.edu",
+          "c_silvernail@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "FinalDesignDocument.pdf",
+          "link": "submitdownload.php?fileid=507"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=508"
+        },
+        "conference paper": {
+          "name": "Conference paper.pdf",
+          "link": "submitdownload.php?fileid=509"
+        },
+        "timestamp": "2019-04-17 21:09:16"
+      },
+      {
+        "group number": "45",
+        "group name": "Reality Flow",
+        "members": [
+          "Manuel Govea",
+          "Jonathan Havener",
+          "Stephen Rigdon",
+          "Jonathan White",
+          "Kayden Wilkinson"
+        ],
+        "emails": [
+          "manugovea96@gmail.com",
+          "jon.a.havener@gmail.com",
+          "swrigdon@gmail.com",
+          "joncwhite91@gmail.com",
+          "kwilk95@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Document (1).pdf",
+          "link": "submitdownload.php?fileid=585"
+        },
+        "presentation": {
+          "name": "Critical Design Review_Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=586"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=587"
+        },
+        "timestamp": "2019-04-23 11:55:22"
+      },
+      {
+        "group number": "46",
+        "group name": "Knights of a New World",
+        "members": [
+          "Troy Houston",
+          "Bailey Muckel",
+          "Bailey Snyder",
+          "Aaron Varkonyi",
+          "Nicholas Whitlock"
+        ],
+        "emails": [
+          "troyhou@knights.ucf.edu",
+          "baileymuckel@knights.ucf.edu",
+          "baileysnyderm@knights.ucf.edu",
+          "ajvark@knights.ucf.edu",
+          "nickwhitlock@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Knights of a New World - Design Document.pdf",
+          "link": "submitdownload.php?fileid=600"
+        },
+        "presentation": {
+          "name": "Knights of a New World slides.pdf",
+          "link": "submitdownload.php?fileid=601"
+        },
+        "conference paper": {
+          "name": "KoaNW Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=602"
+        },
+        "timestamp": "2019-04-26 19:58:13"
+      },
+      {
+        "group number": "47",
+        "group name": "Athlete Technique Analysis",
+        "members": [
+          "Amaan  Chowdhury",
+          "Bryant Gray",
+          "Imahd Khan",
+          "Justin Powell",
+          "Richard  Tsai"
+        ],
+        "emails": [
+          "amaanc96@knights.ucf.edu",
+          "bcgray@knights.ucf.edu",
+          "ikhan14@knights.ucf.edu",
+          "justinmpowell@knights.ucf.edu",
+          "richardtsai1989@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=501"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=502"
+        },
+        "conference paper": {
+          "name": "Conference Paper 47.pdf",
+          "link": "submitdownload.php?fileid=503"
+        },
+        "timestamp": "2019-04-17 17:39:30"
+      },
+      {
+        "group number": "48",
+        "group name": "Roll With Advantage by Nat 1",
+        "members": [
+          "Sam Belcastro",
+          "Gaelen Dignan",
+          "Christian Dudukovich",
+          "Manuel Trujillo-Silva",
+          "Jarrett Wendt"
+        ],
+        "emails": [
+          "Belcastro.samuel@knights.ucf.edu",
+          "gdignan@knights.ucf.edu",
+          "cdudukovich@knights.ucf.edu",
+          "mannyt313@gmail.com",
+          "jarrettwendt@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=462"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=463"
+        },
+        "conference paper": {
+          "name": "SDCP.pdf",
+          "link": "submitdownload.php?fileid=464"
+        },
+        "timestamp": "2019-04-15 13:26:10"
+      },
+      {
+        "group number": "49",
+        "group name": "Stream Swipe",
+        "members": [
+          "Haniel Diaz",
+          "Alexander Dossantos",
+          "Christopher Perkins",
+          "Avi Rosenblum",
+          "Kaleb Yangson"
+        ],
+        "emails": [
+          "hanield001@knights.ucf.edu",
+          "Adossantos@knights.ucf.edu",
+          "chris@chrisperkins.me",
+          "nightremor@gmail.com",
+          "kaleb.yangson@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Senior Design Final Paper.pdf",
+          "link": "submitdownload.php?fileid=492"
+        },
+        "presentation": {
+          "name": "CDR Slides.pptx",
+          "link": "submitdownload.php?fileid=493"
+        },
+        "conference paper": {
+          "name": "SDCP.pdf",
+          "link": "submitdownload.php?fileid=494"
+        },
+        "timestamp": "2019-04-17 06:40:09"
+      },
+      {
+        "group number": "50",
+        "group name": "Portable Microscope",
+        "members": [
+          "Austin Bryant",
+          "Cayla Gill",
+          "Hannah Pierson"
+        ],
+        "emails": [
+          "abryant2113@gmail.com",
+          "caylarosegill@gmail.com",
+          "hannah.pierson09@gmail.com"
+        ],
+        "final doc": {
+          "name": "finalsd2paper.pdf",
+          "link": "submitdownload.php?fileid=549"
+        },
+        "presentation": {
+          "name": "finalpresentation.pdf",
+          "link": "submitdownload.php?fileid=550"
+        },
+        "conference paper": {
+          "name": "FinalCommitteePaper.pdf",
+          "link": "submitdownload.php?fileid=551"
+        },
+        "timestamp": "2019-04-21 13:54:11"
+      },
+      {
+        "group number": "51",
+        "group name": "Tailored Tours",
+        "members": [
+          "Noah AL-Shihabi",
+          "William Cromar",
+          "Andrew Emery",
+          "Luke Myers"
+        ],
+        "emails": [
+          "noahshihabi@knights.ucf.edu",
+          "wcromar@knights.ucf.edu",
+          "aemery97@knights.ucf.edu",
+          "luke.myers@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "final_compressed.pdf",
+          "link": "submitdownload.php?fileid=498"
+        },
+        "presentation": {
+          "name": "Tailored Tours Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=499"
+        },
+        "conference paper": {
+          "name": "Group 51 Conference Paper(2).pdf",
+          "link": "submitdownload.php?fileid=500"
+        },
+        "timestamp": "2019-04-17 15:20:54"
+      },
+      {
+        "group number": "52",
+        "group name": "Outfittr",
+        "members": [
+          "Daquaris Chadwick",
+          "Brandon Gotay",
+          "Susan Long",
+          "Kyle Martinez"
+        ],
+        "emails": [
+          "chadwickd@knights.ucf.edu",
+          "brandon_gotay@knights.ucf.edu",
+          "sclong1017@gmail.com",
+          "martinez.l.kyle@gmail.com"
+        ],
+        "final doc": {
+          "name": "combinepdf (21).pdf",
+          "link": "submitdownload.php?fileid=579"
+        },
+        "presentation": {
+          "name": "FINAL PRESENTATION - Outfittr .pdf",
+          "link": "submitdownload.php?fileid=580"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=581"
+        },
+        "timestamp": "2019-04-22 17:53:33"
+      },
+      {
+        "group number": "53",
+        "group name": "Pianotes",
+        "members": [
+          "Fazle Akbar",
+          "Piero Castillo",
+          "Jonathan Lai",
+          "Kaycee Peeples"
+        ],
+        "emails": [
+          "nocturnal.fazle@gmail.com",
+          "castillo597@hotmail.com",
+          "jlai1997@hotmail.com",
+          "kayceepeeples@gmail.com"
+        ],
+        "final doc": {
+          "name": "Senior Design Paper - Final.pdf",
+          "link": "submitdownload.php?fileid=609"
+        },
+        "presentation": {
+          "name": "_Final_ Pianotes.pptx",
+          "link": "submitdownload.php?fileid=610"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=611"
+        },
+        "timestamp": "2019-04-28 22:41:15"
+      },
+      {
+        "group number": "54",
+        "group name": "be AR guest",
+        "members": [
+          "Bailey Brooks",
+          "Huong Dang",
+          "Jacquelyn Law",
+          "Rachael Sera",
+          "Lorraine Yerger"
+        ],
+        "emails": [
+          "baileybrooks@me.com",
+          "huongd97@gmail.com",
+          "jacquelynlaw@knights.ucf.edu",
+          "rsera@knights.ucf.edu",
+          "lorraine.yerger@gmail.com"
+        ],
+        "final doc": {
+          "name": "Senior Design Final Doc.pdf",
+          "link": "submitdownload.php?fileid=573"
+        },
+        "presentation": {
+          "name": "CDR.pdf",
+          "link": "submitdownload.php?fileid=574"
+        },
+        "conference paper": {
+          "name": "SDCP.pdf",
+          "link": "submitdownload.php?fileid=575"
+        },
+        "timestamp": "2019-04-22 16:19:36"
+      },
+      {
+        "group number": "55",
+        "group name": "Lead the Way",
+        "members": [
+          "Derya Hancock",
+          "Carlos Membreno",
+          "Kevin Santana",
+          "David Wecke",
+          "Richard Zarth"
+        ],
+        "emails": [
+          "deryahancock@knights.ucf.edu",
+          "cmembreno@knights.ucf.edu",
+          "kevinsantana11@knights.ucf.edu",
+          "david.wecke@knights.ucf.edu",
+          "rlziii@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Lead the Way - Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=546"
+        },
+        "presentation": {
+          "name": "Lead the Way - Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=547"
+        },
+        "conference paper": {
+          "name": "Lead the Way - Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=548"
+        },
+        "timestamp": "2019-04-20 21:59:03"
+      }
+    ]
+  },
+  "Fall 2018": {
+    "Senior Design 1": [],
+    "Senior Design 2": [
+      {
+        "group number": "14",
+        "group name": "ELLE Virtual Reality 2.0 for the Games Research Lab",
+        "members": [
+          "Mark Behler",
+          "Phillip Da Silva",
+          "Ian Holdeman",
+          "Santiago Perez Arrubla"
+        ],
+        "emails": [
+          "BehlerMa@Knights.ucf.edu",
+          "phillipdasilva@knights.ucf.edu",
+          "iholdeman1@knights.ucf.edu",
+          "sperezar@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Doc.pdf",
+          "link": "submitdownload.php?fileid=435"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=436"
+        },
+        "conference paper": {
+          "name": "ELLE2.0_Conference_Paper.pdf",
+          "link": "submitdownload.php?fileid=437"
+        },
+        "timestamp": "2018-12-04 18:23:25"
+      },
+      {
+        "group number": "15",
+        "group name": "PEAR",
+        "members": [
+          "Kenia Castro",
+          "Richard DiBacco",
+          "Matthew Frazier",
+          "Katelyn Jones"
+        ],
+        "emails": [
+          "k.castro@knights.ucf.edu",
+          "rdibacco@knights.ucf.edu",
+          "mfrazier85@gmail.com",
+          "ktjones@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "PEAR - Final Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=447"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=448"
+        },
+        "conference paper": {
+          "name": "PEAR_ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=449"
+        },
+        "timestamp": "2018-12-08 11:24:49"
+      },
+      {
+        "group number": "16",
+        "group name": "Macro Meals",
+        "members": [
+          "Nicole Demeter",
+          "Shane Ferrell",
+          "Anthony Jackson",
+          "Krystal Siler"
+        ],
+        "emails": [
+          "nikidemeter@knights.ucf.edu",
+          "shanetheferrell@knights.ucf.edu",
+          "anthony.jackson@knights.ucf.edu",
+          "ksiler7@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "SeniorDesignDoc.pdf",
+          "link": "submitdownload.php?fileid=444"
+        },
+        "presentation": {
+          "name": "MacroMeals Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=445"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=446"
+        },
+        "timestamp": "2018-12-07 17:17:30"
+      },
+      {
+        "group number": "17",
+        "group name": "Balloon Assisted Microgravity Experiment",
+        "members": [
+          "Timothy Buzzelli",
+          "Erick Evangeliste",
+          "Zachary Gormley",
+          "Jacob Rubenstein"
+        ],
+        "emails": [
+          "tbuzzelli96@gmail.com",
+          "erickevangeliste@gmail.com",
+          "zacharygormley@gmail.com",
+          "cubby@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Final Design Doc.pdf",
+          "link": "submitdownload.php?fileid=450"
+        },
+        "presentation": {
+          "name": "FinalPresentation.pptx",
+          "link": "submitdownload.php?fileid=451"
+        },
+        "conference paper": {
+          "name": "Microgravity Experiment Conference Paper (1).pdf",
+          "link": "submitdownload.php?fileid=452"
+        },
+        "timestamp": "2018-12-11 09:25:58"
+      },
+      {
+        "group number": "18",
+        "group name": "Attacking Fingerprint Authentication Using Neural Networks",
+        "members": [
+          "Serra Abak",
+          "Patrick Maier",
+          "Mel Pelchat",
+          "Wyatt Waterfield"
+        ],
+        "emails": [
+          "serraabak@knights.ucf.edu",
+          "pmaier@knights.ucf.edu",
+          "chthonicone@gmail.com",
+          "wyatt.waterfield@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Senior Design Paper.pdf",
+          "link": "submitdownload.php?fileid=393"
+        },
+        "presentation": {
+          "name": "Senior Design Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=394"
+        },
+        "conference paper": {
+          "name": "NeuralFinger Attacking Fingerprint Authentication with Neural Networks.pdf",
+          "link": "submitdownload.php?fileid=395"
+        },
+        "timestamp": "2018-11-27 13:12:41"
+      },
+      {
+        "group number": "19",
+        "group name": "Chatbot for Legal Services",
+        "members": [
+          "Brandyn Keif",
+          "Chad Maycumber",
+          "Isaias Perez",
+          "Jamison  Rayfield",
+          "Chaohao Wang"
+        ],
+        "emails": [
+          "bkeif@knights.ucf.edu",
+          "chad.maycumber@knights.ucf.edu",
+          "isaiasperez@knights.ucf.edu",
+          "jamisonrayfield@gmail.com",
+          "chaohao0817@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Copy of Senior Design Project Document.pdf",
+          "link": "submitdownload.php?fileid=429"
+        },
+        "presentation": {
+          "name": "Senior Design CDR Slides.pdf",
+          "link": "submitdownload.php?fileid=430"
+        },
+        "conference paper": {
+          "name": "Senior Design Conference Paper (1).pdf",
+          "link": "submitdownload.php?fileid=431"
+        },
+        "timestamp": "2018-11-30 18:47:05"
+      },
+      {
+        "group number": "20",
+        "group name": "Deloitte Résumé Scanner",
+        "members": [
+          "Anirudh Abraham",
+          "Alana Arjune",
+          "Garrett Krichbaum",
+          "Daniel Silva",
+          "Ryan Ubinger"
+        ],
+        "emails": [
+          "abraham.anirudh@knights.ucf.edu",
+          "alanaarjune@gmail.com",
+          "garrett.krichbaum@knights.ucf.edu",
+          "daniel.escosteguy.silva@knights.ucf.edu",
+          "ryan-u@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Doc.pdf",
+          "link": "submitdownload.php?fileid=405"
+        },
+        "presentation": {
+          "name": "Resume Scanner.pptx",
+          "link": "submitdownload.php?fileid=406"
+        },
+        "conference paper": {
+          "name": "ResumeScanner_ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=407"
+        },
+        "timestamp": "2018-11-28 13:42:22"
+      },
+      {
+        "group number": "21",
+        "group name": "Augmented Reality Physical Therapy",
+        "members": [
+          "Alex Alvarez",
+          "Kaike Ferreira",
+          "Logan Harvell",
+          "Joe Hummel",
+          "Alfredo Quiroga"
+        ],
+        "emails": [
+          "alexander.gabriel.alvarez@gmail.com",
+          "ferrierakaike.1@gmail.com",
+          "loganh@knights.ucf.edu",
+          "joehummel@outlook.com",
+          "quiroga.alfredo@hotmail.com"
+        ],
+        "final doc": {
+          "name": "ARPT Final Doc Low Quality.pdf",
+          "link": "submitdownload.php?fileid=420"
+        },
+        "presentation": {
+          "name": "ARPT Presentation.pdf",
+          "link": "submitdownload.php?fileid=421"
+        },
+        "conference paper": {
+          "name": "ARPT Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=422"
+        },
+        "timestamp": "2018-11-29 23:00:00"
+      },
+      {
+        "group number": "22",
+        "group name": "UCF Mobile Classroom Attendance",
+        "members": [
+          "Ryan Distasi",
+          "Seth Emmons",
+          "Ryan Graves",
+          "Evan Graves",
+          "George Maier"
+        ],
+        "emails": [
+          "rbdistasi97@knights.ucf.edu",
+          "teshdor@gmail.com",
+          "ryangraves@knights.ucf.edu",
+          "evangraves@outlook.com",
+          "Georgemaier5@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=441"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=442"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=443"
+        },
+        "timestamp": "2018-12-07 14:26:46"
+      },
+      {
+        "group number": "23",
+        "group name": "Scribe",
+        "members": [
+          "James Bearss",
+          "Morgan Cole",
+          "Andrew Gates"
+        ],
+        "emails": [
+          "jbearss01@outlook.com",
+          "mogan.c.cole@gmail.com",
+          "andrewegates@gmail.com"
+        ],
+        "final doc": {
+          "name": "Scribe Final Design Documentation.pdf",
+          "link": "submitdownload.php?fileid=423"
+        },
+        "presentation": {
+          "name": "Scribe Presentation.pptx",
+          "link": "submitdownload.php?fileid=424"
+        },
+        "conference paper": {
+          "name": "SDCP - Group 23.pdf",
+          "link": "submitdownload.php?fileid=425"
+        },
+        "timestamp": "2018-11-30 08:11:11"
+      },
+      {
+        "group number": "25",
+        "group name": "Florida Solar Beach Buggy Challenge",
+        "members": [
+          "Justin Lambert",
+          "Andres Posadas",
+          "Shuoran Qu"
+        ],
+        "emails": [
+          "jlambert1@knights.ucf.edu",
+          "Andres.posadas@knights.ucf.edu",
+          "shuoran@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Proposal Documentation.pdf",
+          "link": "submitdownload.php?fileid=411"
+        },
+        "presentation": {
+          "name": "CDR Presentation.pdf",
+          "link": "submitdownload.php?fileid=412"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=413"
+        },
+        "timestamp": "2018-11-29 12:33:55"
+      },
+      {
+        "group number": "26",
+        "group name": "Beach Buggy Blue",
+        "members": [
+          "Matthew Wadle",
+          "William  Young"
+        ],
+        "emails": [
+          "matthewwadle@gmail.com",
+          "wyoung348@gmail.com"
+        ],
+        "final doc": {
+          "name": "BlueTeam final doc-compressed.pdf",
+          "link": "submitdownload.php?fileid=438"
+        },
+        "presentation": {
+          "name": "CS Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=439"
+        },
+        "conference paper": {
+          "name": "conference.pdf",
+          "link": "submitdownload.php?fileid=440"
+        },
+        "timestamp": "2018-12-04 18:31:48"
+      },
+      {
+        "group number": "27",
+        "group name": "CQI Case Management System",
+        "members": [
+          "Travis Bashor",
+          "Jonathan Billington",
+          "Nick Espinosa",
+          "Eric Hicks"
+        ],
+        "emails": [
+          "travis.bashor@gmail.com",
+          "Jbillington@knights.ucf.edu",
+          "nespinosa@knights.ucf.edu",
+          "ericm8192@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "SD2 Final Documentation - Group 27.pdf",
+          "link": "submitdownload.php?fileid=399"
+        },
+        "presentation": {
+          "name": "Final Presentation 2.pdf",
+          "link": "submitdownload.php?fileid=400"
+        },
+        "conference paper": {
+          "name": "SDCP.pdf",
+          "link": "submitdownload.php?fileid=401"
+        },
+        "timestamp": "2018-11-27 14:54:09"
+      },
+      {
+        "group number": "29",
+        "group name": "Sporsight Soccer Analytics",
+        "members": [
+          "Christopher  Donoso",
+          "Carlos Fortoul",
+          "Jack  Mustacato",
+          "Max  Orr"
+        ],
+        "emails": [
+          "Chrisdonoso@knights.ucf.edu",
+          "carloseduardofv@gmail.com",
+          "jmustacato@knights.ucf.edu",
+          "max_orr@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Document (1).pdf",
+          "link": "submitdownload.php?fileid=402"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=403"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=404"
+        },
+        "timestamp": "2018-11-27 17:10:38"
+      },
+      {
+        "group number": "30",
+        "group name": "STEMentor",
+        "members": [
+          "Gerardo Benitez",
+          "Bhavika Boga",
+          "Shahzaib Jameel",
+          "Daved Sanchez"
+        ],
+        "emails": [
+          "Zuma6199gmail.com",
+          "bhavikaboga7@gmail.com",
+          "shazy_bck@hotmail.com",
+          "daveds1996@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Design Document - Group 30.pdf",
+          "link": "submitdownload.php?fileid=414"
+        },
+        "presentation": {
+          "name": "Final Presentation Slides.pptx",
+          "link": "submitdownload.php?fileid=415"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=416"
+        },
+        "timestamp": "2018-11-29 12:38:29"
+      },
+      {
+        "group number": "31",
+        "group name": "Crime Watch",
+        "members": [
+          "Nick Deleuze",
+          "Ryan Diaz",
+          "Jason Taylor",
+          "Henry Ton"
+        ],
+        "emails": [
+          "deleuze.nicholas@knights.ucf.edu",
+          "ryanalfred119@gmail.com",
+          "jasont111@yahoo.com",
+          "ton.henry92@gmail.com"
+        ],
+        "final doc": {
+          "name": "Report.pdf",
+          "link": "submitdownload.php?fileid=426"
+        },
+        "presentation": {
+          "name": "Crime Watch FIna.pdf",
+          "link": "submitdownload.php?fileid=427"
+        },
+        "conference paper": {
+          "name": "SENIOR DESIGN FINAL DOCUMENT.pdf",
+          "link": "submitdownload.php?fileid=428"
+        },
+        "timestamp": "2018-11-30 13:48:51"
+      }
+    ]
+  },
+  "Summer 2018": {
+    "Senior Design 1": [],
+    "Senior Design 2": [
+      {
+        "group number": "1",
+        "group name": "Newspaper Article Delivery System",
+        "members": [
+          "Ajay Narotam",
+          "Mark  Paxson",
+          "Brent Rademaker"
+        ],
+        "emails": [
+          "ajay.narotam@gmail.com",
+          "kettleofketchup@gmail.com",
+          "brademaker@live.com"
+        ],
+        "final doc": {
+          "name": ""
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2018-08-03 16:31:45"
+      },
+      {
+        "group number": "2",
+        "group name": "ELLE Mobile",
+        "members": [
+          "Christian Acosta",
+          "Kyle Hendricks",
+          "James Jachcinski",
+          "Mustapha Moore",
+          "Dominic Rama"
+        ],
+        "emails": [
+          "cza55@knights.ucf.edu",
+          "kylehendricks@knights.ucf.edu",
+          "James.jachcinski@knights.ucf.edu",
+          "mbm95@knights.ucf.edu",
+          "Dominic.rama@gmail.com"
+        ],
+        "final doc": {
+          "name": "ELLEMobile - Final Document.pdf",
+          "link": "submitdownload.php?fileid=377"
+        },
+        "presentation": {
+          "name": "FinalPresentation.pdf",
+          "link": "submitdownload.php?fileid=378"
+        },
+        "conference paper": {
+          "name": "ELLEMobile_ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=379"
+        },
+        "timestamp": "2018-08-03 15:16:51"
+      },
+      {
+        "group number": "3",
+        "group name": "Synaptograph",
+        "members": [
+          "Daniel Carman",
+          "Sandy Demian",
+          "Novaira Farnaz",
+          "Lilly Jackson",
+          "Jorge Matamoros"
+        ],
+        "emails": [
+          "daniel.carman97@gmail.com",
+          "sdemian95@gmail.com",
+          "novaira.farnaz@gmail.com",
+          "jacksonlillly@gmail.com",
+          "matamorosj@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "SD2BigDoc-Final.pdf",
+          "link": "submitdownload.php?fileid=356"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=357"
+        },
+        "conference paper": {
+          "name": "Synaptograph_Conference_Paper.pdf",
+          "link": "submitdownload.php?fileid=358"
+        },
+        "timestamp": "2018-08-02 11:11:33"
+      },
+      {
+        "group number": "4",
+        "group name": "Emergency Contact Response System - Deloitte",
+        "members": [
+          "Zhan Kuang",
+          "Brian Ocasio",
+          "Masoud Soltanveis",
+          "Jose Sosa",
+          "Kyle Turner"
+        ],
+        "emails": [
+          "kuazhanfeng@gmail.com",
+          "ocasiobrian15@gmail.com",
+          "veisi.masoud@gmail.com",
+          "josesosa.rdz@gmail.com",
+          " KyleTurner49@me.com"
+        ],
+        "final doc": {
+          "name": "ECR-Final-Documentation-Group4.pdf",
+          "link": "submitdownload.php?fileid=359"
+        },
+        "presentation": {
+          "name": "final-presentation-demo-group4.pptx",
+          "link": "submitdownload.php?fileid=360"
+        },
+        "conference paper": {
+          "name": "AcademicPaper-Group4.pdf",
+          "link": "submitdownload.php?fileid=361"
+        },
+        "timestamp": "2018-08-02 14:26:39"
+      },
+      {
+        "group number": "5",
+        "group name": "Pocket Price",
+        "members": [
+          "Aeryn Baker",
+          "Jared Boler",
+          "Alex Phillips",
+          "Michael Vigil"
+        ],
+        "emails": [
+          "aerynwinter@gmail.com",
+          "jaredboler620@gmail.com",
+          "aphillips813@gmail.com",
+          "michael619vigil@yahoo.com"
+        ],
+        "final doc": {
+          "name": "FinalDocument.pdf",
+          "link": "submitdownload.php?fileid=371"
+        },
+        "presentation": {
+          "name": "SD Presentation.pdf",
+          "link": "submitdownload.php?fileid=372"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=373"
+        },
+        "timestamp": "2018-08-03 11:58:02"
+      },
+      {
+        "group number": "6",
+        "group name": "Crypto-Knight",
+        "members": [
+          "Cullen Bair",
+          "John Marich",
+          "Paul Tucker"
+        ],
+        "emails": [
+          "cullenb0916@hotmail.com",
+          "johnalexmarich@gmail.com",
+          "paultucker04@aol.com"
+        ],
+        "final doc": {
+          "name": "Final Design Document _D.pdf",
+          "link": "submitdownload.php?fileid=368"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=369"
+        },
+        "conference paper": {
+          "name": "Crypto-Knights Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=370"
+        },
+        "timestamp": "2018-08-03 11:16:57"
+      },
+      {
+        "group number": "7",
+        "group name": "UCF Maps Manager",
+        "members": [
+          "Luis Casanova",
+          "Shannon Dale",
+          "Joshua Hack",
+          "Caden Kreppein",
+          "Courtney Tennant"
+        ],
+        "emails": [
+          "casal7@knights.ucf.edu",
+          "daleshannon@nights.ucf.edu",
+          "joshuadavidhack@gmail.com",
+          "cadenkreppein@knights.ucf.edu",
+          "courtneytennant@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Documentation.pdf",
+          "link": "submitdownload.php?fileid=353"
+        },
+        "presentation": {
+          "name": "Project Presentation.pdf",
+          "link": "submitdownload.php?fileid=354"
+        },
+        "conference paper": {
+          "name": "ucf_maps_manager.pdf",
+          "link": "submitdownload.php?fileid=355"
+        },
+        "timestamp": "2018-08-01 20:45:51"
+      },
+      {
+        "group number": "8",
+        "group name": "Mark",
+        "members": [
+          "Kurtis Doobay",
+          "Jake Ferrante",
+          "Sean Hernandez",
+          "Cebastian Martin",
+          "Austin Peace"
+        ],
+        "emails": [
+          "kdoobay@knights.ucf.edu",
+          "ferrantej@knights.ucf.edu",
+          "seanlh@knights.ucf.edu",
+          "cebastian.martin@gmail.com",
+          "peace@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Senior Design Main Document.pdf",
+          "link": "submitdownload.php?fileid=362"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=363"
+        },
+        "conference paper": {
+          "name": "Conference Paper Final.pdf",
+          "link": "submitdownload.php?fileid=364"
+        },
+        "timestamp": "2018-08-02 16:17:51"
+      },
+      {
+        "group number": "9",
+        "group name": "Sports MeetUp",
+        "members": [
+          "Dallas Seroski",
+          "Jerasimos Strakosha",
+          "Sherzah Tahir"
+        ],
+        "emails": [
+          "dallas.seroski@knights.ucf.edu",
+          "jstrakosha@knights.ucf.edu",
+          "sherzah@gmail.com"
+        ],
+        "final doc": {
+          "name": "finaldocumentever.pdf",
+          "link": "submitdownload.php?fileid=365"
+        },
+        "presentation": {
+          "name": "SportsMeetUp_CDR.pptx",
+          "link": "submitdownload.php?fileid=366"
+        },
+        "conference paper": {
+          "name": "GROUP9SDCP_3.pdf",
+          "link": "submitdownload.php?fileid=367"
+        },
+        "timestamp": "2018-08-02 17:20:41"
+      },
+      {
+        "group number": "10",
+        "group name": "Teaching Children Safety Through an Interactive Gaming Experience",
+        "members": [
+          "Walter Condon",
+          "Brian Herrin",
+          "Brett Pertuch",
+          "Robert Shannahan"
+        ],
+        "emails": [
+          "waltercondon@outlook.com",
+          "cripticcode18@knights.ucf.edu",
+          "bpertuch@knights.ucf.edu",
+          "robertshannahan@gmail.com"
+        ],
+        "final doc": {
+          "name": "SeniorDesignDocGroup10.pdf",
+          "link": "submitdownload.php?fileid=380"
+        },
+        "presentation": {
+          "name": "presentation.pdf",
+          "link": "submitdownload.php?fileid=381"
+        },
+        "conference paper": {
+          "name": "Group10ConferencePaperSummer2018.pdf",
+          "link": "submitdownload.php?fileid=382"
+        },
+        "timestamp": "2018-08-03 20:42:03"
+      },
+      {
+        "group number": "11",
+        "group name": "Animatronic Lamp",
+        "members": [
+          "Timothy Allen",
+          "Ian Lasky",
+          "Raphael Miller",
+          "Joshua Schroeder",
+          "Kevin Tran"
+        ],
+        "emails": [
+          "timothya86@knights.ucf.edu",
+          "ian.lasky@knights.ucf.edu",
+          "rmiller1988@knights.ucf.edu",
+          "Joshua.schroeder@knights.ucf.edu",
+          "kevintran1196@Knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": ""
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2018-08-03 07:17:04"
+      },
+      {
+        "group number": "13",
+        "group name": "Robofan",
+        "members": [
+          "Ryan Rossbach",
+          "Ivan Sarmiento",
+          "William Terry",
+          "Floyd Thormodson II"
+        ],
+        "emails": [
+          "r.rossbach@knights.ucf.edu",
+          "ivsar@knights.ucf.edu",
+          "fireblue112@gmail.com",
+          "floyd22@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "SD2F.pdf",
+          "link": "submitdownload.php?fileid=350"
+        },
+        "presentation": {
+          "name": "RFFinPres.pptx",
+          "link": "submitdownload.php?fileid=351"
+        },
+        "conference paper": {
+          "name": "Conf8.pdf",
+          "link": "submitdownload.php?fileid=352"
+        },
+        "timestamp": "2018-07-30 12:54:35"
+      }
+    ]
+  },
+  "Spring 2018": {
+    "Senior Design 1": [],
+    "Senior Design 2": [
+      {
+        "group number": "1",
+        "group name": "Tabletop Gaming Companion",
+        "members": [
+          "Michael Garro",
+          "Jeremy Kramer",
+          "Andrew Maida",
+          "Austin Shipley"
+        ],
+        "emails": [
+          "mgarro385@knights.ucf.edu",
+          "kj2010@knights.ucf.edu",
+          "agmaida@knights.ucf.edu",
+          "Austin.shipley@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "TabletopDesignDocument.pdf",
+          "link": "submitdownload.php?fileid=272"
+        },
+        "presentation": {
+          "name": "Tabletop Gaming Companion Presentation.pdf",
+          "link": "submitdownload.php?fileid=273"
+        },
+        "conference paper": {
+          "name": "TabletopGamingConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=274"
+        },
+        "timestamp": "2018-04-19 19:23:03"
+      },
+      {
+        "group number": "2",
+        "group name": "Enhancing Google's Research",
+        "members": [
+          "Devin Cole",
+          "Maria Mosquera Chuquicusma",
+          "Gabriel Ribeiro",
+          "Saad Waraich"
+        ],
+        "emails": [
+          "devmcole1991@knights.ucf.edu",
+          "mmosquera10@outlook.com",
+          "gabedoestech@gmail.com",
+          "saad.waraich1@gmail.com"
+        ],
+        "final doc": {
+          "name": "SD Document_Group2.pdf",
+          "link": "submitdownload.php?fileid=329"
+        },
+        "presentation": {
+          "name": "CDR Presentation_Group 2.pdf",
+          "link": "submitdownload.php?fileid=330"
+        },
+        "conference paper": {
+          "name": "Conference Paper_Group2.pdf",
+          "link": "submitdownload.php?fileid=331"
+        },
+        "timestamp": "2018-04-23 22:32:34"
+      },
+      {
+        "group number": "3",
+        "group name": "Adapative Resonance Theory and Deep Learning for Online Control Tasks",
+        "members": [
+          "Joshua Bowren",
+          "Lucas Laukien",
+          "Carlos Najera",
+          "Andrew Smith"
+        ],
+        "emails": [
+          "jbowren@cs.ucf.edu",
+          "lucaslaukien@gmail.com",
+          "najera.carlos@knights.ucf.edu",
+          "777person@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "SDFinal.pdf",
+          "link": "submitdownload.php?fileid=281"
+        },
+        "presentation": {
+          "name": "SDFinalPresentation.pptx",
+          "link": "submitdownload.php?fileid=282"
+        },
+        "conference paper": {
+          "name": "hartsmlp.pdf",
+          "link": "submitdownload.php?fileid=283"
+        },
+        "timestamp": "2018-04-20 13:22:28"
+      },
+      {
+        "group number": "6",
+        "group name": "Explorer Edge",
+        "members": [
+          "Allen Colston",
+          "Jack  Gallagher",
+          "Khoi Nguyen",
+          "Adolfo Rangel"
+        ],
+        "emails": [
+          "colston1024@gmail.com",
+          "gallagja@knights.ucf.edu",
+          "khoiohk87@gmail.com",
+          "Adolfo.a.rangel@gmail.com"
+        ],
+        "final doc": {
+          "name": "Design document.pdf",
+          "link": "submitdownload.php?fileid=341"
+        },
+        "presentation": {
+          "name": "presentation.pdf",
+          "link": "submitdownload.php?fileid=342"
+        },
+        "conference paper": {
+          "name": "conference paper.pdf",
+          "link": "submitdownload.php?fileid=343"
+        },
+        "timestamp": "2018-04-24 10:14:40"
+      },
+      {
+        "group number": "7",
+        "group name": "Leap Games",
+        "members": [
+          "Masaki Hook",
+          "Sandra Hoopes",
+          "Kristin Knotts",
+          "Cody Mannifield"
+        ],
+        "emails": [
+          "hookkl21@gmail.com",
+          "sjhoopes@gmail.com",
+          "marleeknotts@gmail.com",
+          "cody.mannifield@gmail.com"
+        ],
+        "final doc": {
+          "name": "SDFinalDocSpr18.pdf",
+          "link": "submitdownload.php?fileid=241"
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2018-04-17 20:05:46"
+      },
+      {
+        "group number": "8",
+        "group name": "Pick-aPic Photography Contest",
+        "members": [
+          "Dylan Clemann",
+          "brooke cochenour",
+          "Alex McKeel",
+          "Ralista Wells"
+        ],
+        "emails": [
+          "Dmarco96@knights.ucf.edu",
+          "cochenoubr@knights.ucf.edu",
+          "mckeel.alexander@knights.ucf.edu",
+          "Ralitsa@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "group8_finaldoc.pdf",
+          "link": "submitdownload.php?fileid=290"
+        },
+        "presentation": {
+          "name": "group8_Presentation.pdf",
+          "link": "submitdownload.php?fileid=291"
+        },
+        "conference paper": {
+          "name": "group8_ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=292"
+        },
+        "timestamp": "2018-04-21 00:01:18"
+      },
+      {
+        "group number": "9",
+        "group name": "Accordion Data Compression Research",
+        "members": [
+          "Grant Goodman",
+          "Brandon Gray",
+          "Joseph Landry",
+          "Josue Martinez"
+        ],
+        "emails": [
+          "ggoodfl@gmail.com",
+          "ecclocks@gmail.com",
+          "joelandry80@gmail.com",
+          "martinez344j@gmail.com"
+        ],
+        "final doc": {
+          "name": "COP 4935 Accordion Final Design Document - Group 9.pdf",
+          "link": "submitdownload.php?fileid=245"
+        },
+        "presentation": {
+          "name": "COP 4935 Accordion Final Presentation - Group 9.pptx",
+          "link": "submitdownload.php?fileid=246"
+        },
+        "conference paper": {
+          "name": "COP 4935 Accordion Conference Paper - Group 9.pdf",
+          "link": "submitdownload.php?fileid=247"
+        },
+        "timestamp": "2018-04-18 00:14:46"
+      },
+      {
+        "group number": "10",
+        "group name": "Massively Parallel Computing Using Memristor Crossbars",
+        "members": [
+          "Alexandra Camero",
+          "Eric Entenberg",
+          "Kevin Negy"
+        ],
+        "emails": [
+          "alexandra.camero@knights.ucf.edu",
+          "erice.entenberg@knights.ucf.edu",
+          "kevinnegy@gmail.com"
+        ],
+        "design doc": {
+          "name": "master.pdf",
+          "link": "submitdownload.php?fileid=28"
+        },
+        "final doc": {
+          "name": "Senior Design II Final Document.pdf",
+          "link": "submitdownload.php?fileid=347"
+        },
+        "presentation": {
+          "name": "group102018.pptx",
+          "link": "submitdownload.php?fileid=348"
+        },
+        "conference paper": {
+          "name": "conference.pdf",
+          "link": "submitdownload.php?fileid=349"
+        },
+        "timestamp": "2018-05-02 15:17:12"
+      },
+      {
+        "group number": "11",
+        "group name": "Pairs Trading",
+        "members": [
+          "Aakash Patel",
+          "Devin Sag",
+          "Clay  Szlosek",
+          "Justin Wright"
+        ],
+        "emails": [
+          "aakash.patel@knights.ucf.edu",
+          " devin.sag@knights.ucf.edu",
+          " c.szlosek@knights.ucf.edu",
+          "jdwright@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design.pdf",
+          "link": "submitdownload.php?fileid=287"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=288"
+        },
+        "conference paper": {
+          "name": "Conference_Paper.pdf",
+          "link": "submitdownload.php?fileid=289"
+        },
+        "timestamp": "2018-04-20 15:39:36"
+      },
+      {
+        "group number": "13",
+        "group name": "Limbitless Visualization",
+        "members": [
+          "Alejandro Calderon",
+          "Henry Deslaurier",
+          "Andrew McGilvra",
+          "Uyen Nguyen",
+          "Alec Romine"
+        ],
+        "emails": [
+          "alejandro.calderon99@yahoo.com",
+          "wdeslaurier@knights.ucf.edu",
+          "andrewmcgilvr@knights.ucf.edu",
+          "xuyennguyenx@knights.ucf.edu",
+          "rominealec@gmail.com"
+        ],
+        "final doc": {
+          "name": "Group 13 Final Document.pdf",
+          "link": "submitdownload.php?fileid=251"
+        },
+        "presentation": {
+          "name": "Group 13 Final Document.pdf",
+          "link": "submitdownload.php?fileid=252"
+        },
+        "conference paper": {
+          "name": "Group 13 Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=253"
+        },
+        "timestamp": "2018-04-18 15:09:20"
+      },
+      {
+        "group number": "15",
+        "group name": "Orlando City Injury Predictor",
+        "members": [
+          "Rebecca Parramore",
+          "Sebastian Patino",
+          "Bradley Royal",
+          "Kelton Williams"
+        ],
+        "emails": [
+          "Rebeccaparramore@gmail.com",
+          "patino.sebastian@gmail.com",
+          "bradleyroyal@ymail.com",
+          "keltonwill5@gmail.com"
+        ],
+        "final doc": {
+          "name": "FINAL FINAL DESIGN DOC.compressed.pdf",
+          "link": "submitdownload.php?fileid=317"
+        },
+        "presentation": {
+          "name": "FINAL FINAL PRESENTATION.pptx",
+          "link": "submitdownload.php?fileid=318"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=319"
+        },
+        "timestamp": "2018-04-23 16:57:36"
+      },
+      {
+        "group number": "16",
+        "group name": "Orlando City Soccer Injury Risk Prediction",
+        "members": [
+          "David Israwi Yordi",
+          "Meena Karthikeya",
+          "Jordan Layton",
+          "Jose Pena"
+        ],
+        "emails": [
+          "davidisrawi@knights.ucf.edu",
+          "meena_karthik@knights.ucf.edu",
+          "jordan.layton@knights.ucf.edu",
+          "jouvash@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": ""
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2018-04-20 00:50:55"
+      },
+      {
+        "group number": "16",
+        "group name": "Datalions",
+        "members": [
+          "David  Israwi Yordi",
+          "Meenakshi Karthikeysundaram",
+          "Jordan Layton",
+          "Jose Pena"
+        ],
+        "emails": [
+          "davidisrawi@knights.ucf.edu",
+          "meena_karthik@knights.ucf.edu",
+          "jordan.layton@knights.ucf.edu",
+          "jouvash@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": ""
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2018-05-01 00:07:28"
+      },
+      {
+        "group number": "17",
+        "group name": "RavelTree: Collaborative Storytelling",
+        "members": [
+          "Josh Ackerman",
+          "Alex Aguirre",
+          "Vivienne Do",
+          "Frank Fusco"
+        ],
+        "emails": [
+          "joshackerman@knights.ucf.edu",
+          "alexandraaguirre@knights.ucf.edu",
+          "do.vivienne@knights.ucf.edu",
+          "fusco@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "RavelTree - Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=326"
+        },
+        "presentation": {
+          "name": "RavelTree – Project Presentation.pdf",
+          "link": "submitdownload.php?fileid=327"
+        },
+        "conference paper": {
+          "name": "RavelTree - Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=328"
+        },
+        "timestamp": "2018-04-23 20:55:06"
+      },
+      {
+        "group number": "18",
+        "group name": "Medical Asset Tracking Implemented Via Blockchain",
+        "members": [
+          "Avinash Kumar",
+          "Devin McSweeney",
+          "Hassan Mohaideen",
+          "Cristian Perez",
+          "Jasper Zaporteza"
+        ],
+        "emails": [
+          "avikumar137@gmail.com",
+          "mcsweeney.de@gmail.com",
+          "Hassanmohaideen@yahoo.com",
+          "Cristianwebdev@gmail.com",
+          "Jasper@gozaptech.com"
+        ],
+        "final doc": {
+          "name": "FINAL Copy of Senior Design - Software Design Description.pdf",
+          "link": "submitdownload.php?fileid=332"
+        },
+        "presentation": {
+          "name": "SD Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=333"
+        },
+        "conference paper": {
+          "name": "Group 18 - Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=334"
+        },
+        "timestamp": "2018-04-23 22:37:38"
+      },
+      {
+        "group number": "19",
+        "group name": "Depression Assessment Tool",
+        "members": [
+          "Austin Dragone",
+          "Kenneth Jauregui",
+          "Timothy Parker",
+          "Jamal Roberts"
+        ],
+        "emails": [
+          "austindrag1@gmail.com",
+          "ken96j@gmail.com",
+          "tim.parkerd@gmail.com",
+          "Jamer002@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Document.pdf",
+          "link": "submitdownload.php?fileid=338"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=339"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=340"
+        },
+        "timestamp": "2018-04-23 23:53:08"
+      },
+      {
+        "group number": "20",
+        "group name": "Ludus Competitive Programming Learning Platform",
+        "members": [
+          "Amon Al-Khatib",
+          "Christian Castaneda",
+          "Andrew Kolos",
+          "Eric Ly",
+          "Tyler VanHaren"
+        ],
+        "emails": [
+          "amon.alkhatib@knights.ucf.edu",
+          "ccastaneda@knights.ucf.edu",
+          "akolos@knights.ucf.edu",
+          "ericly@knights.ucf.edu",
+          "tyler.vanharen@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "ARLO Final Documentation.pdf",
+          "link": "submitdownload.php?fileid=144"
+        },
+        "final doc": {
+          "name": "sd-programming-site (1).pdf",
+          "link": "submitdownload.php?fileid=323"
+        },
+        "presentation": {
+          "name": "Senior Design Presentation.pptx",
+          "link": "submitdownload.php?fileid=324"
+        },
+        "conference paper": {
+          "name": "ludus-conference-paper.pdf",
+          "link": "submitdownload.php?fileid=325"
+        },
+        "timestamp": "2018-04-23 19:36:01"
+      },
+      {
+        "group number": "21",
+        "group name": "NASA Distributed Simulation",
+        "members": [
+          "David Anekstein",
+          "Jacob Cornett",
+          "Marc Guerrero",
+          "Cory Williamson"
+        ],
+        "emails": [
+          "aneksteind@gmail.com",
+          "jacobalan96@knights.ucf.edu",
+          "m.guerrero@knights.ucf.edu",
+          "zekos@ymail.com"
+        ],
+        "final doc": {
+          "name": "Senior_Design_Final_Spring.pdf",
+          "link": "submitdownload.php?fileid=284"
+        },
+        "presentation": {
+          "name": "NASA Mars Base Simulation.pdf",
+          "link": "submitdownload.php?fileid=285"
+        },
+        "conference paper": {
+          "name": "The Distributed Simulation of Intelligent Terrain Exploration.pdf",
+          "link": "submitdownload.php?fileid=286"
+        },
+        "timestamp": "2018-04-20 14:45:14"
+      },
+      {
+        "group number": "22",
+        "group name": "Critical Thinking Game",
+        "members": [
+          "Timothy Garrett",
+          "Harrison Geiger",
+          "John Herold",
+          "Dylan Johnson"
+        ],
+        "emails": [
+          "powerkilroy@gmail.com",
+          "geigerwd@gmail.com",
+          "",
+          "blueisdahottest@gmail.com"
+        ],
+        "final doc": {
+          "name": "Group 22 Critical Thinking Documentation.pdf",
+          "link": "submitdownload.php?fileid=299"
+        },
+        "presentation": {
+          "name": "Critical Thinking Game.pptx",
+          "link": "submitdownload.php?fileid=300"
+        },
+        "conference paper": {
+          "name": "conference.pdf",
+          "link": "submitdownload.php?fileid=301"
+        },
+        "timestamp": "2018-04-21 15:36:43"
+      },
+      {
+        "group number": "23",
+        "group name": "NextGen Asset Tracker REd",
+        "members": [
+          "Benjamin Allen",
+          "Frank Dean",
+          "Andrew Matrai",
+          "Jack Worden"
+        ],
+        "emails": [
+          "benjamintallen@knights.ucf.edu",
+          "fdean@knights.ucf.edu",
+          "abmatrai@gmail.com",
+          "jackworden@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Senior Design Document.pdf",
+          "link": "submitdownload.php?fileid=260"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=261"
+        },
+        "conference paper": {
+          "name": "conferencePaper (1).pdf",
+          "link": "submitdownload.php?fileid=262"
+        },
+        "timestamp": "2018-04-19 14:20:37"
+      },
+      {
+        "group number": "25",
+        "group name": "Anti-UAV Drone",
+        "members": [
+          "Khandoker Ahmed",
+          "Tarek Medrano",
+          "Angel Mercado"
+        ],
+        "emails": [
+          "kmunifahmed@gmail",
+          "tarekmedrano@knights.ucf.edu",
+          "Angel.M.Mercado.14@gmail.com"
+        ],
+        "final doc": {
+          "name": "FINAL FINAL.docx.pdf",
+          "link": "submitdownload.php?fileid=296"
+        },
+        "presentation": {
+          "name": "CDR presentation.pdf",
+          "link": "submitdownload.php?fileid=297"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=298"
+        },
+        "timestamp": "2018-04-21 15:24:43"
+      },
+      {
+        "group number": "26",
+        "group name": "Robocopter - Green Team",
+        "members": [
+          "Michael Alexander",
+          "Sean Reedy",
+          "Maxim Shelopugin"
+        ],
+        "emails": [
+          "flcwedge@gmail.com",
+          "sean2@knights.ucf.edu",
+          "maxim.shelopugin@gmail.com"
+        ],
+        "final doc": {
+          "name": "Team26 Senior Design Document.pdf",
+          "link": "submitdownload.php?fileid=335"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=336"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=337"
+        },
+        "timestamp": "2018-04-23 23:28:27"
+      },
+      {
+        "group number": "27",
+        "group name": "RoboCopter UAV Blue Team",
+        "members": [
+          "Sean Belflower",
+          "Neil Tobin Napase",
+          "Shawn Roxby"
+        ],
+        "emails": [
+          "seanbelflower3@knights.ucf.edu",
+          "neiltobinnapase@knights.ucf.edu",
+          "roxbys@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Document - Group 27 - RoboCopter UAV Blue Team.pdf",
+          "link": "submitdownload.php?fileid=263"
+        },
+        "presentation": {
+          "name": "CDR Presentation.pptx",
+          "link": "submitdownload.php?fileid=264"
+        },
+        "conference paper": {
+          "name": "Conference Paper - Group 27 - RoboCopter UAV Blue Team.pdf",
+          "link": "submitdownload.php?fileid=265"
+        },
+        "timestamp": "2018-04-19 15:18:38"
+      },
+      {
+        "group number": "28",
+        "group name": "Drone-based Reduced Gravity / Red Team",
+        "members": [
+          "Nathaniel Bates",
+          "Brandon Bradley",
+          "Adam Doussan"
+        ],
+        "emails": [
+          "naterbater66@hotmail.com",
+          "bmtbradley@gmail.com",
+          "acdoussan@gmail.com"
+        ],
+        "final doc": {
+          "name": "Drone-based Reduced Gravity.pdf",
+          "link": "submitdownload.php?fileid=320"
+        },
+        "presentation": {
+          "name": "Project Presentation - Group 28.pdf",
+          "link": "submitdownload.php?fileid=321"
+        },
+        "conference paper": {
+          "name": "Drone-based Reduced Gravity -Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=322"
+        },
+        "timestamp": "2018-04-23 19:06:18"
+      },
+      {
+        "group number": "29",
+        "group name": "Northrop Microgravity (Green Team)",
+        "members": [
+          "Joseph Freeman",
+          "Allen Shearin"
+        ],
+        "emails": [
+          "jtrentfreeman@gmail.com",
+          "Allen.p.shearin@gmail.com"
+        ],
+        "final doc": {
+          "name": "SD2 FDD TEARDR0P (1).pdf",
+          "link": "submitdownload.php?fileid=238"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=239"
+        },
+        "conference paper": {
+          "name": "Conference Paper - TEARDR0P.pdf",
+          "link": "submitdownload.php?fileid=240"
+        },
+        "timestamp": "2018-04-17 18:27:05"
+      },
+      {
+        "group number": "30",
+        "group name": "Drone-based Reduced Gravity (Blue Team)",
+        "members": [
+          "Megan Herrera",
+          "Tyler Olechnowicz",
+          "John Schulze"
+        ],
+        "emails": [
+          "meganherrera@knights.ucf.edu",
+          "tyler.olechnowicz@knights.ucf.edu",
+          "jschulze@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Milestone 6 V222.pdf",
+          "link": "submitdownload.php?fileid=344"
+        },
+        "presentation": {
+          "name": "Northrop Grumman Reduced Microgravity (Blue Team) - Group 30 (2).pptx",
+          "link": "submitdownload.php?fileid=345"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=346"
+        },
+        "timestamp": "2018-04-26 12:21:55"
+      },
+      {
+        "group number": "31",
+        "group name": "Balloon Assisted Microgravity Ground Control",
+        "members": [
+          "Andrew Geltz",
+          "Luis O'Donnel",
+          "Priscilla Ryan"
+        ],
+        "emails": [
+          "geltz.andrew@gmail.com",
+          "GhostLuis@knights.ucf.edu",
+          "priscillanryan@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Design document.pdf",
+          "link": "submitdownload.php?fileid=314"
+        },
+        "presentation": {
+          "name": "CDR.pptx",
+          "link": "submitdownload.php?fileid=315"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=316"
+        },
+        "timestamp": "2018-04-23 16:14:17"
+      },
+      {
+        "group number": "32",
+        "group name": "Alexa Game Maker",
+        "members": [
+          "David Allen",
+          "James Jeffrey",
+          "Peter Tran"
+        ],
+        "emails": [
+          "dseftu@gmail.com",
+          "jamesjeff7ucf@gmail.com",
+          "ptranxz@gmail.com"
+        ],
+        "final doc": {
+          "name": "Alexa Game Maker FDD.pdf",
+          "link": "submitdownload.php?fileid=269"
+        },
+        "presentation": {
+          "name": "Final Design Review.pptx",
+          "link": "submitdownload.php?fileid=270"
+        },
+        "conference paper": {
+          "name": "Alexa Game Maker Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=271"
+        },
+        "timestamp": "2018-04-19 16:19:27"
+      },
+      {
+        "group number": "34",
+        "group name": "The Middle Passage A VR Experience",
+        "members": [
+          "Wyatt Baldree",
+          "Thomas Boswell",
+          "Ian Lewis",
+          "Jason Parmelee"
+        ],
+        "emails": [
+          "wyattmbaldree@gmail.com",
+          "tcboswell95@gmail.com",
+          "IanTLewis93@gmail.com",
+          "jasonparmelee0614@gmail.com"
+        ],
+        "final doc": {
+          "name": "Slavery VR Design Document.pdf",
+          "link": "submitdownload.php?fileid=242"
+        },
+        "presentation": {
+          "name": "SLAVERY VR experience.pptx",
+          "link": "submitdownload.php?fileid=243"
+        },
+        "conference paper": {
+          "name": "Group34_ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=244"
+        },
+        "timestamp": "2018-04-17 21:38:18"
+      },
+      {
+        "group number": "35",
+        "group name": "SmartCity Simulation",
+        "members": [
+          "Nathaniel Houlihan",
+          "Frederick Martinez",
+          "Zachary Muller",
+          "Courtney Thomassen"
+        ],
+        "emails": [
+          "nate.houlihan@knights.ucf.edu",
+          "knightsemail217@knights.ucf.edu",
+          "zmu113r@knights.ucf.edu",
+          " courtneythomassen@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=235"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=236"
+        },
+        "conference paper": {
+          "name": "Conference paper.pdf",
+          "link": "submitdownload.php?fileid=237"
+        },
+        "timestamp": "2018-04-17 18:09:11"
+      },
+      {
+        "group number": "36",
+        "group name": "Automated Capture of Emotions",
+        "members": [
+          "Stephen Davis",
+          "Remington Howell",
+          "Daniel Levene",
+          "Jordan Zhu"
+        ],
+        "emails": [
+          "Stephen.b.davis@outlook.com",
+          "remingtonhowell@yahoo.com",
+          "dhlevene@knights.ucf.edu",
+          "Zhujordanzhu@gmail.com"
+        ],
+        "final doc": {
+          "name": "Senior Design Final Report.pdf",
+          "link": "submitdownload.php?fileid=302"
+        },
+        "presentation": {
+          "name": "Automated Detection of Emotions final presentation.pptx",
+          "link": "submitdownload.php?fileid=303"
+        },
+        "conference paper": {
+          "name": "Group 36 Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=304"
+        },
+        "timestamp": "2018-04-22 00:32:52"
+      },
+      {
+        "group number": "37",
+        "group name": "Kidney Wellness - An android application",
+        "members": [
+          "Madeleine Cassidy",
+          "Matheus Goncalves",
+          "Matthew Kazen",
+          "Ravi Singh"
+        ],
+        "emails": [
+          "madmarher@gmail.com",
+          "Matheeus@knights.ucf.edu",
+          "Matthew.Kazen@gmail.com",
+          "rs199522@gmail.com"
+        ],
+        "final doc": {
+          "name": "Senior Design 37 - Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=311"
+        },
+        "presentation": {
+          "name": "Kidney Wellness Prezi.pdf",
+          "link": "submitdownload.php?fileid=312"
+        },
+        "conference paper": {
+          "name": "Group 37 Kidney Wellness.pdf",
+          "link": "submitdownload.php?fileid=313"
+        },
+        "timestamp": "2018-04-23 11:42:18"
+      },
+      {
+        "group number": "38",
+        "group name": "Knest",
+        "members": [
+          "Alexander Decurnou",
+          "Joseph Leavitt",
+          "Nhi Nguyen",
+          "Jonathon Rice"
+        ],
+        "emails": [
+          "me@aledec.com",
+          "joeleav1@gmail.com",
+          "me@nhiqn.com",
+          "jrice145@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Design.pdf",
+          "link": "submitdownload.php?fileid=293"
+        },
+        "presentation": {
+          "name": "CDR.pdf",
+          "link": "submitdownload.php?fileid=294"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=295"
+        },
+        "timestamp": "2018-04-21 14:17:00"
+      },
+      {
+        "group number": "39",
+        "group name": "Computer Vision-Aided Weight Training",
+        "members": [
+          "Thomas Angelo",
+          "Oscar Enriquez",
+          "Fernando Soler-Casanova"
+        ],
+        "emails": [
+          "tangelo@knights.ucf.edu",
+          "oenriquez@knights.ucf.edu",
+          "fsoler58@gmail.com"
+        ],
+        "final doc": {
+          "name": "SD FINAL DOCUMENT (1).pdf",
+          "link": "submitdownload.php?fileid=248"
+        },
+        "presentation": {
+          "name": "Status Presentation (1).pptx",
+          "link": "submitdownload.php?fileid=249"
+        },
+        "conference paper": {
+          "name": "Conference Paper.doc (1).pdf",
+          "link": "submitdownload.php?fileid=250"
+        },
+        "timestamp": "2018-04-18 12:32:47"
+      },
+      {
+        "group number": "40",
+        "group name": "HQ Mars Colonization Game",
+        "members": [
+          "Raf  Forero",
+          "Damian Suski",
+          "Dax Tubach",
+          "Marcy Yi"
+        ],
+        "emails": [
+          "forero.ra@gmail.com",
+          "damianthesuski@knights.ucf.edu",
+          "daxtubach@knights.ucf.edu",
+          "yi.marcy@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Document (1).pdf",
+          "link": "submitdownload.php?fileid=305"
+        },
+        "presentation": {
+          "name": "HQ Mars _ Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=306"
+        },
+        "conference paper": {
+          "name": "SD Conference Paper.doc (1).pdf",
+          "link": "submitdownload.php?fileid=307"
+        },
+        "timestamp": "2018-04-22 19:55:11"
+      },
+      {
+        "group number": "41",
+        "group name": "3D CNC Foam Cutter",
+        "members": [
+          "Zachary Gill",
+          "Nicolas Lopez",
+          "N/A N/A"
+        ],
+        "emails": [
+          "zachary.w.gill@gmail.com",
+          "nicolaslopezbravo@gmail.com",
+          "N/A"
+        ],
+        "final doc": {
+          "name": "Design Document.pdf",
+          "link": "submitdownload.php?fileid=254"
+        },
+        "presentation": {
+          "name": "Presentation.pptx",
+          "link": "submitdownload.php?fileid=255"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=256"
+        },
+        "timestamp": "2018-04-18 19:46:30"
+      },
+      {
+        "group number": "42",
+        "group name": "Critical Encounters",
+        "members": [
+          "Jonathan Akridge",
+          "Hunter Figueroa",
+          "Zachary Painter",
+          "Jacob Spigle Spigle"
+        ],
+        "emails": [
+          "jonathan.akridge@knights.ucf.edu",
+          "figueroa_hunter@knights.ucf.edu",
+          "zacharypainter@knights.ucf.edu",
+          "jacobspigle@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "DMBD_Final_Design_Document.pdf",
+          "link": "submitdownload.php?fileid=257"
+        },
+        "presentation": {
+          "name": "CDR.pptx",
+          "link": "submitdownload.php?fileid=258"
+        },
+        "conference paper": {
+          "name": "Group42_ConferencePaper_Critical-Encounters.pdf",
+          "link": "submitdownload.php?fileid=259"
+        },
+        "timestamp": "2018-04-19 01:31:37"
+      },
+      {
+        "group number": "43",
+        "group name": "EventFull",
+        "members": [
+          "Alex Arendsen",
+          "Trevor Jenkins",
+          "Satya Patel",
+          "Michael Pfeiffer"
+        ],
+        "emails": [
+          "alex.arendsen.7@gmail.com",
+          "spoupovitch@gmail.com",
+          "satyapatel111@gmail.com",
+          "medispawn@gmail.com"
+        ],
+        "final doc": {
+          "name": "FinalDesignDocument.pdf",
+          "link": "submitdownload.php?fileid=266"
+        },
+        "presentation": {
+          "name": "FinalPresentationSlideshow.pdf",
+          "link": "submitdownload.php?fileid=267"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=268"
+        },
+        "timestamp": "2018-04-19 15:58:05"
+      },
+      {
+        "group number": "44",
+        "group name": "Virtual Reality Condition Assessment Training Application",
+        "members": [
+          "Julia Galimidi",
+          "Andrew Guillard",
+          "Cuong Nguyen",
+          "Brant Rieder"
+        ],
+        "emails": [
+          "juliagalimidi@knights.ucf.edu",
+          "andrewguillard@knights.ucf.edu",
+          " cuongnguyen001@knights.ucf.edu",
+          "brieder@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Documentation.pdf",
+          "link": "submitdownload.php?fileid=308"
+        },
+        "presentation": {
+          "name": "CDR.pdf",
+          "link": "submitdownload.php?fileid=309"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=310"
+        },
+        "timestamp": "2018-04-22 21:08:37"
+      },
+      {
+        "group number": "46",
+        "group name": "Drone Dash Pro",
+        "members": [
+          "Timothy Konzel",
+          "Richard Pazda"
+        ],
+        "emails": [
+          "timkonzel@gmail.com",
+          "richard.pazda@gmail.com"
+        ],
+        "final doc": {
+          "name": "Project Document (Final).pdf",
+          "link": "submitdownload.php?fileid=278"
+        },
+        "presentation": {
+          "name": "Drone Dash Pro Final.pptx",
+          "link": "submitdownload.php?fileid=279"
+        },
+        "conference paper": {
+          "name": "Drone Dash Pro - Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=280"
+        },
+        "timestamp": "2018-04-20 12:44:39"
+      }
+    ]
+  },
+  "Fall 2017": {
+    "Senior Design 1": [],
+    "Senior Design 2": [
+      {
+        "group number": "6",
+        "group name": "Oviedo Fire Department Inventory Reporting System",
+        "members": [
+          "Ashton Ansag",
+          "David Evander",
+          "Christian Jaen",
+          "Jacob Solomon"
+        ],
+        "emails": [
+          "aansag@knights.ucf.edu",
+          "devander@knights.ucf.edu",
+          "cjaen@knights.ucf.edu",
+          "j.solomon@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=132"
+        },
+        "final doc": {
+          "name": "FDDV2.pdf",
+          "link": "submitdownload.php?fileid=226"
+        },
+        "presentation": {
+          "name": "OviedoFireCDRPresentation.pdf",
+          "link": "submitdownload.php?fileid=227"
+        },
+        "conference paper": {
+          "name": "Team 6 Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=228"
+        },
+        "timestamp": "2017-12-02 10:35:14"
+      },
+      {
+        "group number": "7",
+        "group name": "UCF Guard Tours",
+        "members": [
+          "MarcAnthony Fanfan",
+          "Sean Greenfield",
+          "Matthew Moseley",
+          "Brooke Norton"
+        ],
+        "emails": [
+          "mfanx2@gmail.com",
+          "sean818g@gmail.com",
+          "matthewcmoseley@gmail.com",
+          "brookemorgannorton@gmail.com"
+        ],
+        "design doc": {
+          "name": "Group_7_Final_Design_Documentation.pdf",
+          "link": "submitdownload.php?fileid=143"
+        },
+        "final doc": {
+          "name": "CS-UCFGT-Final-Design-Documentation.compressed.pdf",
+          "link": "submitdownload.php?fileid=220"
+        },
+        "presentation": {
+          "name": "Final Presentation.compressed.pdf",
+          "link": "submitdownload.php?fileid=221"
+        },
+        "conference paper": {
+          "name": "Guard Tours Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=222"
+        },
+        "timestamp": "2017-12-01 14:36:44"
+      },
+      {
+        "group number": "9",
+        "group name": "H-Net Job Guide App",
+        "members": [
+          "Hicham El-Abbadi",
+          "Daniel Hellkamp",
+          "Emre Kutsal",
+          "Stephanie Wong"
+        ],
+        "emails": [
+          "elabbadih@knights.ucf.edu",
+          "dhellkamp@knights.ucf.edu",
+          "emrecik@knights.ucf.edu",
+          "swong4@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "Final Design Document - Final Submission.pdf",
+          "link": "submitdownload.php?fileid=150"
+        },
+        "final doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=193"
+        },
+        "presentation": {
+          "name": "Final Presentation Slides.pdf",
+          "link": "submitdownload.php?fileid=194"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=195"
+        },
+        "timestamp": "2017-11-29 02:37:49"
+      },
+      {
+        "group number": "10",
+        "group name": "MPBWT Efficient Haplotype Matching",
+        "members": [
+          "Justin Burgess",
+          "Daniel Garcia",
+          "Mark Vetro"
+        ],
+        "emails": [
+          "jtburgess@knights.ucf.edu",
+          "dannymgme@gmail.com",
+          "vetromark@gmail.com"
+        ],
+        "design doc": {
+          "name": "projectwriteup.docx.pdf",
+          "link": "submitdownload.php?fileid=145"
+        },
+        "final doc": {
+          "name": "project write up.docx.pdf",
+          "link": "submitdownload.php?fileid=208"
+        },
+        "presentation": {
+          "name": "final presentation.pptx",
+          "link": "submitdownload.php?fileid=209"
+        },
+        "conference paper": {
+          "name": "sd conference paper.pdf",
+          "link": "submitdownload.php?fileid=210"
+        },
+        "timestamp": "2017-12-01 12:05:08"
+      },
+      {
+        "group number": "11",
+        "group name": "Athlete Mindfulness App",
+        "members": [
+          "Jorge Baralt",
+          "Kyle Johnson",
+          "Ben Stankich"
+        ],
+        "emails": [
+          "jorgebaraltq@gmail.com",
+          "krj221@gmail.com",
+          "benstankich@gmail.com"
+        ],
+        "design doc": {
+          "name": "FinalDesignDocument.pdf",
+          "link": "submitdownload.php?fileid=142"
+        },
+        "final doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=190"
+        },
+        "presentation": {
+          "name": "CDR 10_15(1).pptx",
+          "link": "submitdownload.php?fileid=191"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.doc.pdf",
+          "link": "submitdownload.php?fileid=192"
+        },
+        "timestamp": "2017-11-29 00:21:43"
+      },
+      {
+        "group number": "12",
+        "group name": "UCP Bailes",
+        "members": [
+          "Nicholas Deview",
+          "Ryan Kangas",
+          "Adam Marshall",
+          "Brandon McNamara"
+        ],
+        "emails": [
+          "ndeview7@knights.ucf.edu",
+          "ryankangas@knights.ucf.edu",
+          "adamm@knights.ucf.edu",
+          "bmcnamara@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final SD2 Final Design Doc.pdf",
+          "link": "submitdownload.php?fileid=187"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=188"
+        },
+        "conference paper": {
+          "name": "SDCP Paper.pdf",
+          "link": "submitdownload.php?fileid=189"
+        },
+        "timestamp": "2017-11-28 20:54:32"
+      },
+      {
+        "group number": "13",
+        "group name": "Autonomous Drone",
+        "members": [
+          "Ryan Beasley",
+          "Daniel Belalcazar",
+          "Matthew  Taubler",
+          "Marco van Hilst"
+        ],
+        "emails": [
+          "ryanbeasley88@gmail.com",
+          "daniel.belalcazar@knights.ucf.edu",
+          "matttaubler@knights.ucf.edu",
+          "Marco.vanhilst@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "SD2 Final Design Documentation.pdf",
+          "link": "submitdownload.php?fileid=205"
+        },
+        "presentation": {
+          "name": "SD2 Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=206"
+        },
+        "conference paper": {
+          "name": "Drone_Conference_Final.pdf",
+          "link": "submitdownload.php?fileid=207"
+        },
+        "timestamp": "2017-12-01 02:17:05"
+      },
+      {
+        "group number": "14",
+        "group name": "Autonomous Robots Learning From Observation",
+        "members": [
+          "Allysia Freeman",
+          "Jonathan Lacombe",
+          "Ryan Studstill"
+        ],
+        "emails": [
+          "fiammavolta@gmail.com",
+          "lacombejonathan@knights.ucf.edu",
+          "ryanstudstill@gmail.com"
+        ],
+        "final doc": {
+          "name": "sd2-final-documentation.pdf",
+          "link": "submitdownload.php?fileid=178"
+        },
+        "presentation": {
+          "name": "CDR Presentation-2.pptx",
+          "link": "submitdownload.php?fileid=179"
+        },
+        "conference paper": {
+          "name": "Conference Paper Ed2.pdf",
+          "link": "submitdownload.php?fileid=180"
+        },
+        "timestamp": "2017-11-28 13:45:03"
+      },
+      {
+        "group number": "16",
+        "group name": "MAE Inventory Tracking System",
+        "members": [
+          "James Hurley",
+          "Naureen Khimani",
+          "Alexander Lascaibar",
+          "Johnathan Sattler"
+        ],
+        "emails": [
+          "jhurley@knights.ucf.edu",
+          "Nlightwala@knights.ucf.edu",
+          "A.Lascaibar@knights.ucf.edu",
+          "JSattler@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "Final Design Doc.pdf",
+          "link": "submitdownload.php?fileid=151"
+        },
+        "final doc": {
+          "name": "Senior Design Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=214"
+        },
+        "presentation": {
+          "name": "MAE Presentation-2.pptx",
+          "link": "submitdownload.php?fileid=215"
+        },
+        "conference paper": {
+          "name": "SDCP.Format.doc-2.pdf",
+          "link": "submitdownload.php?fileid=216"
+        },
+        "timestamp": "2017-12-01 13:40:13"
+      },
+      {
+        "group number": "17",
+        "group name": "Utility Inspection",
+        "members": [
+          "Navid Fanaian",
+          "Jorge Nazario",
+          "Joseph Prause"
+        ],
+        "emails": [
+          "navid.fanaian@gmail.com",
+          "jinaoc@gmail.com",
+          "joeprau96@gmail.com"
+        ],
+        "design doc": {
+          "name": "SeniorDesignIFinalDesignDocument.pdf",
+          "link": "submitdownload.php?fileid=125"
+        },
+        "final doc": {
+          "name": "Final Senior Design Document.pdf",
+          "link": "submitdownload.php?fileid=202"
+        },
+        "presentation": {
+          "name": "Project Presentation.pptx",
+          "link": "submitdownload.php?fileid=203"
+        },
+        "conference paper": {
+          "name": "Final Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=204"
+        },
+        "timestamp": "2017-11-30 18:50:09"
+      },
+      {
+        "group number": "18",
+        "group name": "Attendance Made Easy (AME)",
+        "members": [
+          "Brandon Royal",
+          "Stephen Ulmer",
+          "Vien Yeung"
+        ],
+        "emails": [
+          "ucfzbtpresident@gmail.com",
+          "stephen.ulmer@gmail.com",
+          "vl.yeung@yahoo.com"
+        ],
+        "final doc": {
+          "name": "Final_Design_Document.pdf",
+          "link": "submitdownload.php?fileid=229"
+        },
+        "presentation": {
+          "name": "Final_Presentation.pptx",
+          "link": "submitdownload.php?fileid=230"
+        },
+        "conference paper": {
+          "name": "Final_Conference_Paper.pdf",
+          "link": "submitdownload.php?fileid=231"
+        },
+        "timestamp": "2017-12-02 22:55:31"
+      },
+      {
+        "group number": "19",
+        "group name": "Image to image Translation with Convolutional Neural Networks ",
+        "members": [
+          "Adam Albright",
+          "Kyle Ferguson",
+          "Qiang Li"
+        ],
+        "emails": [
+          "aalbright425@gmail.com",
+          "kyle.ferguson@knights.ucf.edu",
+          "qiangli@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Group 19 Final Design Documentation.pdf",
+          "link": "submitdownload.php?fileid=199"
+        },
+        "presentation": {
+          "name": "Group 19 Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=200"
+        },
+        "conference paper": {
+          "name": "Group 19 Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=201"
+        },
+        "timestamp": "2017-11-30 18:25:45"
+      },
+      {
+        "group number": "20",
+        "group name": "Web Portal/App for Pre-Med Students",
+        "members": [
+          "Matthew Carlino",
+          "Jon Liauw",
+          "Conner Tharp"
+        ],
+        "emails": [
+          "carlino.matthew@knights.ucf.edu",
+          "jdliauw@knights.ucf.edu",
+          "connertharp@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "FinalDesignDocumentation.pdf",
+          "link": "submitdownload.php?fileid=146"
+        },
+        "final doc": {
+          "name": "Final Design Documentation.pdf",
+          "link": "submitdownload.php?fileid=184"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=185"
+        },
+        "conference paper": {
+          "name": "SDCP.pdf",
+          "link": "submitdownload.php?fileid=186"
+        },
+        "timestamp": "2017-11-28 14:45:16"
+      },
+      {
+        "group number": "21",
+        "group name": "NASA: Scribe",
+        "members": [
+          "Brett Belcher",
+          "Gareth Steven",
+          "Alec Swanson",
+          "David Wise"
+        ],
+        "emails": [
+          "brettbelcher13@gmail.com",
+          "steveng.gs.w@gmail.com",
+          "aleceswanson@gmail.com",
+          "wisedavidt@gmail.com"
+        ],
+        "final doc": {
+          "name": "NASA_ Scribe.pdf",
+          "link": "submitdownload.php?fileid=223"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=224"
+        },
+        "conference paper": {
+          "name": "NASA_ Scribe.pdf",
+          "link": "submitdownload.php?fileid=225"
+        },
+        "timestamp": "2017-12-01 16:32:33"
+      },
+      {
+        "group number": "22",
+        "group name": "ELLE EndLess LEarner",
+        "members": [
+          "Georg Anemogiannis",
+          "Eric Butt",
+          "Tyler Chauhan",
+          "Megan Chipman"
+        ],
+        "emails": [
+          "ganemogiannis@knights.ucf.edu",
+          "ebutt@live.com",
+          "tchauhan@knights.ucf.edu",
+          "meganchipman@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "FinalDesignDoc.pdf",
+          "link": "submitdownload.php?fileid=126"
+        },
+        "final doc": {
+          "name": "ELLE Final Paper2.pdf",
+          "link": "submitdownload.php?fileid=211"
+        },
+        "presentation": {
+          "name": "ELLE CDR.pdf",
+          "link": "submitdownload.php?fileid=212"
+        },
+        "conference paper": {
+          "name": "CONFERENCE PAPER.doc.pdf",
+          "link": "submitdownload.php?fileid=213"
+        },
+        "timestamp": "2017-12-01 12:27:42"
+      },
+      {
+        "group number": "23",
+        "group name": "sensubot",
+        "members": [
+          "Khunput Bangkunarak",
+          "Kyle Picinich",
+          "Adi Shankur",
+          "logan smith"
+        ],
+        "emails": [
+          "captainsenshi@gmail.com",
+          "kyle.kjoseph@gmail.com",
+          "adi2895@gmail.com",
+          "logan.smith@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "FinalDesignDocumentation.pdf",
+          "link": "submitdownload.php?fileid=161"
+        },
+        "final doc": {
+          "name": "Sensubot_Final_Documentation.pdf",
+          "link": "submitdownload.php?fileid=196"
+        },
+        "presentation": {
+          "name": "Sensubot_final_presentation (1).pptx",
+          "link": "submitdownload.php?fileid=197"
+        },
+        "conference paper": {
+          "name": "SDCP.Format.doc.pdf",
+          "link": "submitdownload.php?fileid=198"
+        },
+        "timestamp": "2017-11-29 11:57:47"
+      },
+      {
+        "group number": "24",
+        "group name": "Artificially Intelligent Music Maestro",
+        "members": [
+          "Coltan Carr",
+          "Mitchell Jones",
+          "Andrew Luntz"
+        ],
+        "emails": [
+          "Carr427@gmail.com",
+          "mitchellthomasjones@gmail.com",
+          "Ajluntz@gmail.com"
+        ],
+        "design doc": {
+          "name": "finalDesign.pdf",
+          "link": "submitdownload.php?fileid=131"
+        },
+        "final doc": {
+          "name": "FinalDesign.pdf",
+          "link": "submitdownload.php?fileid=217"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=218"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=219"
+        },
+        "timestamp": "2017-12-01 14:17:13"
+      },
+      {
+        "group number": "25",
+        "group name": "SmartKart",
+        "members": [
+          "Victoria Abreu",
+          "Christina Heagney",
+          "Lucas Ryan",
+          "Doran Senior"
+        ],
+        "emails": [
+          "victoria.abreu64@Knights.ucf.edu",
+          "cheagney@Knights.ucf.edu",
+          "lucas.ryan@Knights.ucf.edu",
+          "dsenior132@Knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "CS Final Draft.pdf",
+          "link": "submitdownload.php?fileid=130"
+        },
+        "final doc": {
+          "name": "Final Design Documentation (2).pdf",
+          "link": "submitdownload.php?fileid=175"
+        },
+        "presentation": {
+          "name": "Final SD Presentation (1).pptx",
+          "link": "submitdownload.php?fileid=176"
+        },
+        "conference paper": {
+          "name": "SDCP SmartKart-1.pdf",
+          "link": "submitdownload.php?fileid=177"
+        },
+        "timestamp": "2017-11-28 02:10:19"
+      },
+      {
+        "group number": "26",
+        "group name": "Flockit Collaborative Music Playlists",
+        "members": [
+          "Zachary Barfield",
+          "Andrew Hopper",
+          "Ryan Kelsey",
+          "Elizabeth Ozimek-Newman"
+        ],
+        "emails": [
+          "zachary.a.barfield@gmail.com",
+          "andrewtthopper@gmail.com",
+          "ryankelsey@knights.ucf.edu",
+          "eozimek-newman@outlook.com"
+        ],
+        "final doc": {
+          "name": "Group26_Flockit_FinalDocumentation.pdf",
+          "link": "submitdownload.php?fileid=181"
+        },
+        "presentation": {
+          "name": "Final CDR Presentation.pptx",
+          "link": "submitdownload.php?fileid=182"
+        },
+        "conference paper": {
+          "name": "SD abridged doc.pdf",
+          "link": "submitdownload.php?fileid=183"
+        },
+        "timestamp": "2017-11-28 14:15:27"
+      }
+    ]
+  },
+  "Summer 2017": {
+    "Senior Design 2": [
+      {
+        "group number": "1",
+        "group name": "Veritas Cloud Backup",
+        "members": [
+          "Rebeca Amaya",
+          "Gabriela Fisher",
+          "Omar Hamouda",
+          "Joey Orlando"
+        ],
+        "emails": [
+          "rebeca_amaya@bellsouth.net",
+          "ravenspass@Knights.ucf.edu",
+          " Hamouda.omar@Knights.ucf.edu",
+          " josephorlando11@gmail.com"
+        ],
+        "design doc": {
+          "name": "FinalDocumentation.pdf",
+          "link": "submitdownload.php?fileid=123"
+        },
+        "final doc": {
+          "name": "FinalDocumentation.pdf",
+          "link": "submitdownload.php?fileid=166"
+        },
+        "presentation": {
+          "name": "SeniorDesignPresentation.pptx",
+          "link": "submitdownload.php?fileid=167"
+        },
+        "conference paper": {
+          "name": "SDCP.pdf",
+          "link": "submitdownload.php?fileid=168"
+        },
+        "timestamp": "2017-08-03 06:31:03"
+      },
+      {
+        "group number": "2",
+        "group name": "Checkup Exec",
+        "members": [
+          "Guillermo Alicea",
+          "Camilo Junoy",
+          "Daniel Lott",
+          "Shuaicheng Ma"
+        ],
+        "emails": [
+          "galicea96@outlook.com",
+          "junoycamilo@gmail.com",
+          "danmanlott@gmail.com",
+          "mshuaic@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "CheckupExecFinalDocument.pdf",
+          "link": "submitdownload.php?fileid=124"
+        },
+        "final doc": {
+          "name": "Final Design Content.pdf",
+          "link": "submitdownload.php?fileid=172"
+        },
+        "presentation": {
+          "name": "Final Demo.pdf",
+          "link": "submitdownload.php?fileid=173"
+        },
+        "conference paper": {
+          "name": "4935_ConferencePaper.docx (1).pdf",
+          "link": "submitdownload.php?fileid=174"
+        },
+        "timestamp": "2017-08-03 14:59:50"
+      },
+      {
+        "group number": "3",
+        "group name": "VIBA",
+        "members": [
+          "Jamhson Boliva",
+          "Melissa Gramajo",
+          "DaQueshia  Irvin",
+          "Jesus Menacho"
+        ],
+        "emails": [
+          "bolivido@yahoo.com",
+          "melissagramajo@live.com",
+          "dqirvin@gmail.com",
+          "nites@Knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "SeniorDesign1.pdf",
+          "link": "submitdownload.php?fileid=119"
+        },
+        "final doc": {
+          "name": "Final Project Documentation.docx.pdf",
+          "link": "submitdownload.php?fileid=162"
+        },
+        "presentation": {
+          "name": "Project Presentation.pdf",
+          "link": "submitdownload.php?fileid=163"
+        },
+        "conference paper": {
+          "name": "SDCP.pdf",
+          "link": "submitdownload.php?fileid=164"
+        },
+        "timestamp": "2017-08-02 20:54:41"
+      },
+     
+      {
+        "group number": "4",
+        "group name": "Passtrunk",
+        "members": [
+          "Farhan Mandani",
+          "Noel Sanchez",
+          "Jorge E. Santiago",
+          "Yendy Villalobos"
+        ],
+        "emails": [
+          "farhanmandani@gmail.com",
+          "noeary@yahoo.com",
+          "jesantiago@gmail.com",
+          "yshikita@yahoo.com"
+        ],
+        "design doc": {
+          "name": "SeniorDesign1FinalDesignDocument FINAL.pdf",
+          "link": "submitdownload.php?fileid=115"
+        },
+        "final doc": {
+          "name": "SeniorDesign2FinalDesignDocument FinalAugustt.pdf",
+          "link": "submitdownload.php?fileid=169"
+        },
+        "presentation": {
+          "name": "Group 4 Presentation.pptx",
+          "link": "submitdownload.php?fileid=170"
+        },
+        "conference paper": {
+          "name": "SDCP.Format.doc.pdf",
+          "link": "submitdownload.php?fileid=171"
+        },
+        "timestamp": "2017-08-03 13:57:02"
+      },
+      {
+        "group number": "5",
+        "group name": "TeachLivE",
+        "members": [
+          "Jason Berk",
+          "Justin Graham",
+          "Marina Kassimis",
+          "Taylor Veith"
+        ],
+        "emails": [
+          "jasondberk@gmail.com",
+          "justingraham86@gmail.com",
+          "marinakassimis@hotmail.com",
+          "taylorveith@gmail.com"
+        ],
+        "design doc": {
+          "name": "Group 5 Final SD Document.pdf",
+          "link": "submitdownload.php?fileid=157"
+        },
+        "final doc": {
+          "name": "FDD.pdf",
+          "link": "submitdownload.php?fileid=165"
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2017-08-03 05:43:11"
+      },
+      {
+        "group number": "6",
+        "group name": "Oviedo Fire Department Inventory Reporting System",
+        "members": [
+          "Ashton Ansag",
+          "David Evander",
+          "Christian Jaen",
+          "Jacob Solomon"
+        ],
+        "emails": [
+          "aansag@knights.ucf.edu",
+          "devander@knights.ucf.edu",
+          "cjaen@knights.ucf.edu",
+          "j.solomon@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "FDDV2.pdf",
+          "link": "submitdownload.php?fileid=226"
+        },
+        "presentation": {
+          "name": "OviedoFireCDRPresentation.pdf",
+          "link": "submitdownload.php?fileid=227"
+        },
+        "conference paper": {
+          "name": "Team 6 Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=228"
+        },
+        "timestamp": "2017-12-02 10:35:14"
+      },
+      {
+        "group number": "7",
+        "group name": "UCF Guard Tours",
+        "members": [
+          "MarcAnthony Fanfan",
+          "Sean Greenfield",
+          "Matthew Moseley",
+          "Brooke Norton"
+        ],
+        "emails": [
+          "mfanx2@gmail.com",
+          "sean818g@gmail.com",
+          "matthewcmoseley@gmail.com",
+          "brookemorgannorton@gmail.com"
+        ],
+        "final doc": {
+          "name": "CS-UCFGT-Final-Design-Documentation.compressed.pdf",
+          "link": "submitdownload.php?fileid=220"
+        },
+        "presentation": {
+          "name": "Final Presentation.compressed.pdf",
+          "link": "submitdownload.php?fileid=221"
+        },
+        "conference paper": {
+          "name": "Guard Tours Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=222"
+        },
+        "timestamp": "2017-12-01 14:36:44"
+      },
+      {
+        "group number": "9",
+        "group name": "H-Net Job Guide App",
+        "members": [
+          "Hicham El-Abbadi",
+          "Daniel Hellkamp",
+          "Emre Kutsal",
+          "Stephanie Wong"
+        ],
+        "emails": [
+          "elabbadih@knights.ucf.edu",
+          "dhellkamp@knights.ucf.edu",
+          "emrecik@knights.ucf.edu",
+          "swong4@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=193"
+        },
+        "presentation": {
+          "name": "Final Presentation Slides.pdf",
+          "link": "submitdownload.php?fileid=194"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=195"
+        },
+        "timestamp": "2017-11-29 02:37:49"
+      },
+      {
+        "group number": "10",
+        "group name": "MPBWT Efficient Haplotype Matching",
+        "members": [
+          "Justin Burgess",
+          "Daniel Garcia",
+          "Mark Vetro"
+        ],
+        "emails": [
+          "jtburgess@knights.ucf.edu",
+          "dannymgme@gmail.com",
+          "vetromark@gmail.com"
+        ],
+        "final doc": {
+          "name": "project write up.docx.pdf",
+          "link": "submitdownload.php?fileid=208"
+        },
+        "presentation": {
+          "name": "final presentation.pptx",
+          "link": "submitdownload.php?fileid=209"
+        },
+        "conference paper": {
+          "name": "sd conference paper.pdf",
+          "link": "submitdownload.php?fileid=210"
+        },
+        "timestamp": "2017-12-01 12:05:08"
+      },
+      {
+        "group number": "11",
+        "group name": "Athlete Mindfulness App",
+        "members": [
+          "Jorge Baralt",
+          "Kyle Johnson",
+          "Ben Stankich"
+        ],
+        "emails": [
+          "jorgebaraltq@gmail.com",
+          "krj221@gmail.com",
+          "benstankich@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=190"
+        },
+        "presentation": {
+          "name": "CDR 10_15(1).pptx",
+          "link": "submitdownload.php?fileid=191"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.doc.pdf",
+          "link": "submitdownload.php?fileid=192"
+        },
+        "timestamp": "2017-11-29 00:21:43"
+      },
+      {
+        "group number": "12",
+        "group name": "UCP Bailes",
+        "members": [
+          "Nicholas Deview",
+          "Ryan Kangas",
+          "Adam Marshall",
+          "Brandon McNamara"
+        ],
+        "emails": [
+          "ndeview7@knights.ucf.edu",
+          "ryankangas@knights.ucf.edu",
+          "adamm@knights.ucf.edu",
+          "bmcnamara@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final SD2 Final Design Doc.pdf",
+          "link": "submitdownload.php?fileid=187"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=188"
+        },
+        "conference paper": {
+          "name": "SDCP Paper.pdf",
+          "link": "submitdownload.php?fileid=189"
+        },
+        "timestamp": "2017-11-28 20:54:32"
+      },
+      {
+        "group number": "13",
+        "group name": "Autonomous Drone",
+        "members": [
+          "Ryan Beasley",
+          "Daniel Belalcazar",
+          "Matthew  Taubler",
+          "Marco van Hilst"
+        ],
+        "emails": [
+          "ryanbeasley88@gmail.com",
+          "daniel.belalcazar@knights.ucf.edu",
+          "matttaubler@knights.ucf.edu",
+          "Marco.vanhilst@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "SD2 Final Design Documentation.pdf",
+          "link": "submitdownload.php?fileid=205"
+        },
+        "presentation": {
+          "name": "SD2 Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=206"
+        },
+        "conference paper": {
+          "name": "Drone_Conference_Final.pdf",
+          "link": "submitdownload.php?fileid=207"
+        },
+        "timestamp": "2017-12-01 02:17:05"
+      },
+      {
+        "group number": "14",
+        "group name": "Autonomous Robots Learning From Observation",
+        "members": [
+          "Allysia Freeman",
+          "Jonathan Lacombe",
+          "Ryan Studstill"
+        ],
+        "emails": [
+          "fiammavolta@gmail.com",
+          "lacombejonathan@knights.ucf.edu",
+          "ryanstudstill@gmail.com"
+        ],
+        "final doc": {
+          "name": "sd2-final-documentation.pdf",
+          "link": "submitdownload.php?fileid=178"
+        },
+        "presentation": {
+          "name": "CDR Presentation-2.pptx",
+          "link": "submitdownload.php?fileid=179"
+        },
+        "conference paper": {
+          "name": "Conference Paper Ed2.pdf",
+          "link": "submitdownload.php?fileid=180"
+        },
+        "timestamp": "2017-11-28 13:45:03"
+      },
+      {
+        "group number": "16",
+        "group name": "MAE Inventory Tracking System",
+        "members": [
+          "James Hurley",
+          "Naureen Khimani",
+          "Alexander Lascaibar",
+          "Johnathan Sattler"
+        ],
+        "emails": [
+          "jhurley@knights.ucf.edu",
+          "Nlightwala@knights.ucf.edu",
+          "A.Lascaibar@knights.ucf.edu",
+          "JSattler@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Senior Design Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=214"
+        },
+        "presentation": {
+          "name": "MAE Presentation-2.pptx",
+          "link": "submitdownload.php?fileid=215"
+        },
+        "conference paper": {
+          "name": "SDCP.Format.doc-2.pdf",
+          "link": "submitdownload.php?fileid=216"
+        },
+        "timestamp": "2017-12-01 13:40:13"
+      },
+      {
+        "group number": "17",
+        "group name": "Utility Inspection",
+        "members": [
+          "Navid Fanaian",
+          "Jorge Nazario",
+          "Joseph Prause"
+        ],
+        "emails": [
+          "navid.fanaian@gmail.com",
+          "jinaoc@gmail.com",
+          "joeprau96@gmail.com"
+        ],
+        "final doc": {
+          "name": "Final Senior Design Document.pdf",
+          "link": "submitdownload.php?fileid=202"
+        },
+        "presentation": {
+          "name": "Project Presentation.pptx",
+          "link": "submitdownload.php?fileid=203"
+        },
+        "conference paper": {
+          "name": "Final Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=204"
+        },
+        "timestamp": "2017-11-30 18:50:09"
+      },
+      {
+        "group number": "18",
+        "group name": "Attendance Made Easy (AME)",
+        "members": [
+          "Brandon Royal",
+          "Stephen Ulmer",
+          "Vien Yeung"
+        ],
+        "emails": [
+          "ucfzbtpresident@gmail.com",
+          "stephen.ulmer@gmail.com",
+          "vl.yeung@yahoo.com"
+        ],
+        "final doc": {
+          "name": "Final_Design_Document.pdf",
+          "link": "submitdownload.php?fileid=229"
+        },
+        "presentation": {
+          "name": "Final_Presentation.pptx",
+          "link": "submitdownload.php?fileid=230"
+        },
+        "conference paper": {
+          "name": "Final_Conference_Paper.pdf",
+          "link": "submitdownload.php?fileid=231"
+        },
+        "timestamp": "2017-12-02 22:55:31"
+      },
+      {
+        "group number": "19",
+        "group name": "Image to image Translation with Convolutional Neural Networks ",
+        "members": [
+          "Adam Albright",
+          "Kyle Ferguson",
+          "Qiang Li"
+        ],
+        "emails": [
+          "aalbright425@gmail.com",
+          "kyle.ferguson@knights.ucf.edu",
+          "qiangli@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Group 19 Final Design Documentation.pdf",
+          "link": "submitdownload.php?fileid=199"
+        },
+        "presentation": {
+          "name": "Group 19 Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=200"
+        },
+        "conference paper": {
+          "name": "Group 19 Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=201"
+        },
+        "timestamp": "2017-11-30 18:25:45"
+      },
+      {
+        "group number": "20",
+        "group name": "Web Portal/App for Pre-Med Students",
+        "members": [
+          "Matthew Carlino",
+          "Jon Liauw",
+          "Conner Tharp"
+        ],
+        "emails": [
+          "carlino.matthew@knights.ucf.edu",
+          "jdliauw@knights.ucf.edu",
+          "connertharp@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Documentation.pdf",
+          "link": "submitdownload.php?fileid=184"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=185"
+        },
+        "conference paper": {
+          "name": "SDCP.pdf",
+          "link": "submitdownload.php?fileid=186"
+        },
+        "timestamp": "2017-11-28 14:45:16"
+      },
+      {
+        "group number": "21",
+        "group name": "NASA: Scribe",
+        "members": [
+          "Brett Belcher",
+          "Gareth Steven",
+          "Alec Swanson",
+          "David Wise"
+        ],
+        "emails": [
+          "brettbelcher13@gmail.com",
+          "steveng.gs.w@gmail.com",
+          "aleceswanson@gmail.com",
+          "wisedavidt@gmail.com"
+        ],
+        "final doc": {
+          "name": "NASA_ Scribe.pdf",
+          "link": "submitdownload.php?fileid=223"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=224"
+        },
+        "conference paper": {
+          "name": "NASA_ Scribe.pdf",
+          "link": "submitdownload.php?fileid=225"
+        },
+        "timestamp": "2017-12-01 16:32:33"
+      },
+      {
+        "group number": "22",
+        "group name": "ELLE EndLess LEarner",
+        "members": [
+          "Georg Anemogiannis",
+          "Eric Butt",
+          "Tyler Chauhan",
+          "Megan Chipman"
+        ],
+        "emails": [
+          "ganemogiannis@knights.ucf.edu",
+          "ebutt@live.com",
+          "tchauhan@knights.ucf.edu",
+          "meganchipman@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "ELLE Final Paper2.pdf",
+          "link": "submitdownload.php?fileid=211"
+        },
+        "presentation": {
+          "name": "ELLE CDR.pdf",
+          "link": "submitdownload.php?fileid=212"
+        },
+        "conference paper": {
+          "name": "CONFERENCE PAPER.doc.pdf",
+          "link": "submitdownload.php?fileid=213"
+        },
+        "timestamp": "2017-12-01 12:27:42"
+      },
+      {
+        "group number": "23",
+        "group name": "sensubot",
+        "members": [
+          "Khunput Bangkunarak",
+          "Kyle Picinich",
+          "Adi Shankur",
+          "logan smith"
+        ],
+        "emails": [
+          "captainsenshi@gmail.com",
+          "kyle.kjoseph@gmail.com",
+          "adi2895@gmail.com",
+          "logan.smith@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Sensubot_Final_Documentation.pdf",
+          "link": "submitdownload.php?fileid=196"
+        },
+        "presentation": {
+          "name": "Sensubot_final_presentation (1).pptx",
+          "link": "submitdownload.php?fileid=197"
+        },
+        "conference paper": {
+          "name": "SDCP.Format.doc.pdf",
+          "link": "submitdownload.php?fileid=198"
+        },
+        "timestamp": "2017-11-29 11:57:47"
+      },
+      {
+        "group number": "24",
+        "group name": "Artificially Intelligent Music Maestro",
+        "members": [
+          "Coltan Carr",
+          "Mitchell Jones",
+          "Andrew Luntz"
+        ],
+        "emails": [
+          "Carr427@gmail.com",
+          "mitchellthomasjones@gmail.com",
+          "Ajluntz@gmail.com"
+        ],
+        "final doc": {
+          "name": "FinalDesign.pdf",
+          "link": "submitdownload.php?fileid=217"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=218"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=219"
+        },
+        "timestamp": "2017-12-01 14:17:13"
+      },
+      {
+        "group number": "25",
+        "group name": "SmartKart",
+        "members": [
+          "Victoria Abreu",
+          "Christina Heagney",
+          "Lucas Ryan",
+          "Doran Senior"
+        ],
+        "emails": [
+          "victoria.abreu64@Knights.ucf.edu",
+          "cheagney@Knights.ucf.edu",
+          "lucas.ryan@Knights.ucf.edu",
+          "dsenior132@Knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Design Documentation (2).pdf",
+          "link": "submitdownload.php?fileid=175"
+        },
+        "presentation": {
+          "name": "Final SD Presentation (1).pptx",
+          "link": "submitdownload.php?fileid=176"
+        },
+        "conference paper": {
+          "name": "SDCP SmartKart-1.pdf",
+          "link": "submitdownload.php?fileid=177"
+        },
+        "timestamp": "2017-11-28 02:10:19"
+      },
+      {
+        "group number": "26",
+        "group name": "Flockit Collaborative Music Playlists",
+        "members": [
+          "Zachary Barfield",
+          "Andrew Hopper",
+          "Ryan Kelsey",
+          "Elizabeth Ozimek-Newman"
+        ],
+        "emails": [
+          "zachary.a.barfield@gmail.com",
+          "andrewtthopper@gmail.com",
+          "ryankelsey@knights.ucf.edu",
+          "eozimek-newman@outlook.com"
+        ],
+        "final doc": {
+          "name": "Group26_Flockit_FinalDocumentation.pdf",
+          "link": "submitdownload.php?fileid=181"
+        },
+        "presentation": {
+          "name": "Final CDR Presentation.pptx",
+          "link": "submitdownload.php?fileid=182"
+        },
+        "conference paper": {
+          "name": "SD abridged doc.pdf",
+          "link": "submitdownload.php?fileid=183"
+        },
+        "timestamp": "2017-11-28 14:15:27"
+      }
+    ]
+  },
+  "Spring 2017": {
+    "Senior Design 1": [
+      {
+        "group number": "8",
+        "group name": "Qwikcut Video Storage & Retrieval",
+        "members": [
+          "Kohei Arai",
+          "Brita Ramsay",
+          "Steven Schoen"
+        ],
+        "emails": [
+          "tobecomebig@gmail.com",
+          "purrpleskkerple@gmail.com",
+          "digisteve5@gmail.com"
+        ],
+        "design doc": {
+          "name": "Group8_QwikCut_FinalDesignDocument.pdf",
+          "link": "submitdownload.php?fileid=148"
+        },
+        "timestamp": "2017-04-26 15:03:14"
+      },
+      {
+        "group number": "15",
+        "group name": "Automating Transactional Transformation of Lock-Free Data Structures",
+        "members": [
+          "Dilara Aydin",
+          "Kenneth Lamar",
+          "Christopher Zehr"
+        ],
+        "emails": [
+          "lara@digitalpineapple.co",
+          "kennethmlamar@gmail.com",
+          "Chris.Zzehr@gmail.com"
+        ],
+        "design doc": {
+          "name": "FinalDesignDocument-Group15.pdf",
+          "link": "submitdownload.php?fileid=152"
+        },
+        "timestamp": "2017-04-26 15:57:19"
+      },
+      {
+        "group number": "18",
+        "group name": "AttendanceMadeEasy",
+        "members": [
+          "Brandon Royal",
+          "Stephen Ulmer",
+          "Vien Yeung"
+        ],
+        "emails": [
+          "brandonroyal@knights.ucf.edu",
+          "stephenulmer@knights.ucf.edu",
+          "vyeung52@gmail.com"
+        ],
+        "design doc": {
+          "name": "DesignDocumentPart2.pdf",
+          "link": "submitdownload.php?fileid=149"
+        },
+        "timestamp": "2017-04-26 15:21:41"
+      },
+      {
+        "group number": "19",
+        "group name": "SketchFoo",
+        "members": [
+          "Adam Albright",
+          "Kyle Ferguson",
+          "Qiang Li"
+        ],
+        "emails": [
+          "aalbright425@gmail.com",
+          "Kyle.ferguson@knights.ucf.edu",
+          "qiangli@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "merged (1).pdf",
+          "link": "submitdownload.php?fileid=156"
+        },
+        "timestamp": "2017-04-26 20:06:06"
+      }
+    ],
+    "Senior Design 2": [
+      {
+        "group number": "1",
+        "group name": "Telepathy",
+        "members": [
+          "Benjamin Goldstein",
+          "Jesse Lopez",
+          "Emily  Sachs"
+        ],
+        "emails": [
+          "darthgoldstein@gmail.com",
+          "jessealexanderlopez222@gmail.com",
+          "eesachs@gmail.com"
+        ],
+        "final doc": {
+          "name": "FinalDesignDocumentation-Telepathy.pdf",
+          "link": "submitdownload.php?fileid=61"
+        },
+        "presentation": {
+          "name": "Tele_SD-Final.pptx",
+          "link": "submitdownload.php?fileid=62"
+        },
+        "conference paper": {
+          "name": "ConferencePaper-Telepathy.pdf",
+          "link": "submitdownload.php?fileid=63"
+        },
+        "timestamp": "2017-04-20 12:55:11"
+      },
+      {
+        "group number": "2",
+        "group name": "Exercise at Home",
+        "members": [
+          "Youssef Boules",
+          "Jacob Cassagnol",
+          "Ryan Fonzi",
+          "Andrew Kruithof"
+        ],
+        "emails": [
+          "youssefboules@Knights.ucf.edu",
+          "jcassagnol@knights.ucf.edu",
+          "ryan.fonzi@gmail.com",
+          "AndrewKruithof@gmail.com"
+        ],
+        "design doc": {
+          "name": "Senior Design I Final Project Documentation.pdf",
+          "link": "submitdownload.php?fileid=26"
+        },
+        "final doc": {
+          "name": "Senior Design I Final Project Documentation_v2.pdf",
+          "link": "submitdownload.php?fileid=103"
+        },
+        "presentation": {
+          "name": "FinalPresentation.pdf",
+          "link": "submitdownload.php?fileid=104"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=105"
+        },
+        "timestamp": "2017-04-24 16:41:31"
+      },
+      {
+        "group number": "3",
+        "group name": "Parameter Discovery",
+        "members": [
+          "Jacob Crandall",
+          "Alexander Quintero",
+          "Robin Shiro",
+          "Christopher Sipes"
+        ],
+        "emails": [
+          "jacobmcrandall@gmail.com",
+          "alex.quintero@gmail.com",
+          "robinschiro@knights.ucf.edu",
+          "chrisrsipes@gmail.com"
+        ],
+        "design doc": {
+          "name": "FinalDesignDocument.pdf",
+          "link": "submitdownload.php?fileid=15"
+        },
+        "final doc": {
+          "name": "FinalDesignDocument.pdf",
+          "link": "submitdownload.php?fileid=49"
+        },
+        "presentation": {
+          "name": "FinalPresentation.pdf",
+          "link": "submitdownload.php?fileid=50"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=51"
+        },
+        "timestamp": "2017-04-18 23:46:44"
+      },
+      {
+        "group number": "4",
+        "group name": "Automated Memristor Crossbar Synthesis",
+        "members": [
+          "Michael Claudio",
+          "Julio Gutierrez",
+          "Austin Miller",
+          "Troyle Thomas"
+        ],
+        "emails": [
+          "michael.a.claudio@knights.ucf.edu",
+          "juliog@knights.ucf.edu",
+          "amiller1@Knights.ucf.edu",
+          "TThomas2136@Knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "master.pdf",
+          "link": "submitdownload.php?fileid=28"
+        },
+        "final doc": {
+          "name": "master.pdf",
+          "link": "submitdownload.php?fileid=55"
+        },
+        "presentation": {
+          "name": "Presentation.pptx",
+          "link": "submitdownload.php?fileid=56"
+        },
+        "conference paper": {
+          "name": "AMCSPaper.pdf",
+          "link": "submitdownload.php?fileid=57"
+        },
+        "timestamp": "2017-04-20 01:25:58"
+      },
+      {
+        "group number": "5",
+        "group name": "Project Unity",
+        "members": [
+          "Sheridan Bishop",
+          "Travis Montey",
+          "Clay Plumridge",
+          "Kevin Shoults"
+        ],
+        "emails": [
+          "Bishops@knights.ucf.edu",
+          "Travis.montey@knights.ucf.edu",
+          "plumridgec@gmail.com",
+          "kvnshoults@gmail.com"
+        ],
+        "design doc": {
+          "name": "Project Unity Design Document.pdf",
+          "link": "submitdownload.php?fileid=9"
+        },
+        "final doc": {
+          "name": "Project_Unity_Design_Document.pdf",
+          "link": "submitdownload.php?fileid=64"
+        },
+        "presentation": {
+          "name": "Project Unity - Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=65"
+        },
+        "conference paper": {
+          "name": "Conference_Paper.pdf",
+          "link": "submitdownload.php?fileid=66"
+        },
+        "timestamp": "2017-04-20 16:26:07"
+      },
+      {
+        "group number": "6",
+        "group name": "dr.fcs",
+        "members": [
+          "Xavier Banks",
+          "Darian Smalley",
+          "Alberto Urbina"
+        ],
+        "emails": [
+          "xavier95@knights.ucf.edu",
+          "darian.smalley@gmail.com",
+          "alberto.urbina92@gmail.com"
+        ],
+        "design doc": {
+          "name": "FinalProjectDocumentation.pdf",
+          "link": "submitdownload.php?fileid=34"
+        },
+        "final doc": {
+          "name": "dr.fcsFinalProjectDocumentation.pdf",
+          "link": "submitdownload.php?fileid=120"
+        },
+        "presentation": {
+          "name": "Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=121"
+        },
+        "conference paper": {
+          "name": "Senior Design Confrence Paper.pdf",
+          "link": "submitdownload.php?fileid=122"
+        },
+        "timestamp": "2017-04-25 15:33:17"
+      },
+      {
+        "group number": "7",
+        "group name": "Metagenomic Taxonomic Inference",
+        "members": [
+          "Trevor  Ballard",
+          "Harsh Patel",
+          "Felix Sosa",
+          "Austin Vo"
+        ],
+        "emails": [
+          "ballardt@knights.ucf.edu",
+          "hurr03@gmail.com ",
+          "felixanthonysosa@gmail.com",
+          "austinvo.khoa@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "FinalSDDocMTI.pdf",
+          "link": "submitdownload.php?fileid=13"
+        },
+        "final doc": {
+          "name": "Spring2017-FinalDesignDocumentMTI.pdf",
+          "link": "submitdownload.php?fileid=139"
+        },
+        "presentation": {
+          "name": "Final Presentation - Spring 2017.pdf",
+          "link": "submitdownload.php?fileid=140"
+        },
+        "conference paper": {
+          "name": "SD.pdf",
+          "link": "submitdownload.php?fileid=141"
+        },
+        "timestamp": "2017-04-26 12:29:13"
+      },
+      {
+        "group number": "8",
+        "group name": "Metagenomic Assembly and Analysis Pipeline",
+        "members": [
+          "David Brickeen",
+          "Stanislav Ivchenko",
+          "Trevor Minnix",
+          "Brandon Vaeth"
+        ],
+        "emails": [
+          "dcbrickeen@gmail.com",
+          "stanislav_ivchenko@hotmail.com",
+          "trevorm126@gmail.com",
+          "bvaeth1992@gmail.com"
+        ],
+        "design doc": {
+          "name": "Documentation_final_pagebreaks.pdf",
+          "link": "submitdownload.php?fileid=19"
+        },
+        "final doc": {
+          "name": "FINAL_DOCUMENTATION.pdf",
+          "link": "submitdownload.php?fileid=97"
+        },
+        "presentation": {
+          "name": "FINAL_PRESENTATION.pdf",
+          "link": "submitdownload.php?fileid=98"
+        },
+        "conference paper": {
+          "name": "FINAL_CONFERENCE.pdf",
+          "link": "submitdownload.php?fileid=99"
+        },
+        "timestamp": "2017-04-24 14:55:36"
+      },
+      {
+        "group number": "9",
+        "group name": "Dynamic Radio Environment Map",
+        "members": [
+          "Lucas Higginbotham",
+          "Alex Kinlen",
+          "George Robbins"
+        ],
+        "emails": [
+          "lucas.higginbotham@knights.ucf.edu",
+          "akinlen@knights.ucf.edu",
+          "grobbins@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "Final Design.pdf",
+          "link": "submitdownload.php?fileid=27"
+        },
+        "final doc": {
+          "name": "Final Design_SD2.pdf",
+          "link": "submitdownload.php?fileid=70"
+        },
+        "presentation": {
+          "name": "FinalPresentation.pptx",
+          "link": "submitdownload.php?fileid=71"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=72"
+        },
+        "timestamp": "2017-04-22 19:51:54"
+      },
+      {
+        "group number": "11",
+        "group name": "Swish",
+        "members": [
+          "Trevor Absher",
+          "Nathan Baker",
+          "Michael Slater",
+          "Yacine Tazi"
+        ],
+        "emails": [
+          "Absher.Trevor@gmail.com",
+          "n4t3baker@gmail.com",
+          "mslater715@gmail.com",
+          "tenicay23@gmail.com"
+        ],
+        "design doc": {
+          "name": "FinalProjectDocumentationGroup11.pdf",
+          "link": "submitdownload.php?fileid=14"
+        },
+        "final doc": {
+          "name": "Swish Senior Design Paper.pdf",
+          "link": "submitdownload.php?fileid=85"
+        },
+        "presentation": {
+          "name": "Final PowerPoint.pptx",
+          "link": "submitdownload.php?fileid=86"
+        },
+        "conference paper": {
+          "name": "Conference Paper Final.pdf",
+          "link": "submitdownload.php?fileid=87"
+        },
+        "timestamp": "2017-04-24 01:59:55"
+      },
+      {
+        "group number": "12",
+        "group name": "Lockheed Martin Battlebots Green Team",
+        "members": [
+          "Daniel Healy",
+          "Nick Ho Lung",
+          "Sayeed Tahseen"
+        ],
+        "emails": [
+          "daniel.jacob.healy@gmail.com",
+          "nholung96@gmail.com",
+          "sayeedtahseen@gmail.com"
+        ],
+        "design doc": {
+          "name": "senDes_Green_FINAL.pdf",
+          "link": "submitdownload.php?fileid=16"
+        },
+        "final doc": {
+          "name": "FinalDocSenDesign_4-20-17.pdf",
+          "link": "submitdownload.php?fileid=67"
+        },
+        "presentation": {
+          "name": "Presentation.pdf",
+          "link": "submitdownload.php?fileid=68"
+        },
+        "conference paper": {
+          "name": "conferencePaper.pdf",
+          "link": "submitdownload.php?fileid=69"
+        },
+        "timestamp": "2017-04-21 23:58:37"
+      },
+      {
+        "group number": "12",
+        "group name": "Lockheed Martin BattleBots (Red Team)",
+        "members": [
+          "Joshua Atkinson",
+          "Sucre Lucas",
+          "Michael Stack"
+        ],
+        "emails": [
+          "jatkinson388@knights.ucf.edu",
+          "sucre@knights.ucf.edu",
+          "michaelstack@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": ""
+        },
+        "final doc": {
+          "name": ""
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2017-04-24 00:35:01"
+      },
+      {
+        "group number": "12",
+        "group name": "12c: Lockheed Battlebot",
+        "members": [
+          "Michael Hamm",
+          "Toan Nguyen",
+          "Colby Troutt"
+        ],
+        "emails": [
+          "mhamm@cfl.rr.com",
+          "toannguyen1@gmail.com",
+          "colby.troutt@gmail.com"
+        ],
+        "design doc": {
+          "name": "FinalDesign.pdf",
+          "link": "submitdownload.php?fileid=17"
+        },
+        "final doc": {
+          "name": "FinalDesign.pdf",
+          "link": "submitdownload.php?fileid=91"
+        },
+        "presentation": {
+          "name": "CS - Final Presentation (Faculty Demo) 2.pptx",
+          "link": "submitdownload.php?fileid=92"
+        },
+        "conference paper": {
+          "name": "conPaper.pdf",
+          "link": "submitdownload.php?fileid=93"
+        },
+        "timestamp": "2017-04-24 13:24:32"
+      },
+      {
+        "group number": "12",
+        "group name": "Lockheed Martin BattleBots (Red Team)",
+        "members": [
+          "Joshua Atkinson",
+          "Sucre Lucas",
+          "Michael Stack"
+        ],
+        "emails": [
+          "jatkinson388@knights.ucf.edu",
+          "sucre@knights.ucf.edu",
+          "michaelstack@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "Final Documentation_opt.pdf",
+          "link": "submitdownload.php?fileid=133"
+        },
+        "presentation": {
+          "name": "FINAL CDR.pptx",
+          "link": "submitdownload.php?fileid=134"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=135"
+        },
+        "timestamp": "2017-04-26 11:41:39"
+      },
+      {
+        "group number": "13",
+        "group name": "ULA Forecasting Tool",
+        "members": [
+          "Laura Driscoll",
+          "Tyler Gauntlett",
+          "Kenny Urena"
+        ],
+        "emails": [
+          "ledriscoll@comcast.net",
+          "tylergauntlett@gmail.com",
+          "urenakenny@gmail.com"
+        ],
+        "design doc": {
+          "name": "ULAFinalDocument.pdf",
+          "link": "submitdownload.php?fileid=22"
+        },
+        "final doc": {
+          "name": "ULAFinalDocumentSpring.pdf",
+          "link": "submitdownload.php?fileid=112"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=113"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=114"
+        },
+        "timestamp": "2017-04-24 21:10:01"
+      },
+      {
+        "group number": "14",
+        "group name": "NASA Mars Base Simulation",
+        "members": [
+          "Khristopher Bandong",
+          "Robert Brown",
+          "Andrew Foran",
+          "Hunter Heston",
+          "John-Paul Steed",
+          "William Young"
+        ],
+        "emails": [
+          "khrisbryan09@gmail.com",
+          "wbrown_15@yahoo.com",
+          "andrew.foran.vr@gmail.com",
+          "Hunter_Heston@yahoo.com",
+          "johnpaulsteed@knights.ucf.edu",
+          "wcodyyoung4@gmail.com"
+        ],
+        "design doc": {
+          "name": "NASAMarsISRUBaseSimulation.pdf",
+          "link": "submitdownload.php?fileid=20"
+        },
+        "final doc": {
+          "name": "NASAMarsBaseFinalDocument.pdf",
+          "link": "submitdownload.php?fileid=88"
+        },
+        "presentation": {
+          "name": "Full Pres.pdf",
+          "link": "submitdownload.php?fileid=89"
+        },
+        "conference paper": {
+          "name": "CSSAE1.docx.pdf",
+          "link": "submitdownload.php?fileid=90"
+        },
+        "timestamp": "2017-04-24 12:22:57"
+      },
+      {
+        "group number": "15",
+        "group name": "Unity 3D Scanner",
+        "members": [
+          "Brandon Aulet",
+          "Timothy Flowers",
+          "Mark McCulloh",
+          "Chris Williams"
+        ],
+        "emails": [
+          "brandonaulet500@gmail.com",
+          "T_chuck_flowers@yahoo.com",
+          "Mark.McCulloh@gmail.com",
+          "cwilliams3426@gmail.com"
+        ],
+        "design doc": {
+          "name": "SeniorDesignDoc.pdf",
+          "link": "submitdownload.php?fileid=23"
+        },
+        "final doc": {
+          "name": "SeniorDesignDoc_Final.pdf",
+          "link": "submitdownload.php?fileid=106"
+        },
+        "presentation": {
+          "name": "3D Unity Scanner.pptx",
+          "link": "submitdownload.php?fileid=107"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=108"
+        },
+        "timestamp": "2017-04-24 17:43:25"
+      },
+      {
+        "group number": "16",
+        "group name": "Internet of Things Monitoring and Malware Detection",
+        "members": [
+          "Sara Brown",
+          "Jacob Garman",
+          "Brandon Wallace"
+        ],
+        "emails": [
+          "sarabrown@knights.ucf.edu",
+          "jbgarman.business@gmail.com",
+          "wallacebrandon@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "IoT Monitoring and Malware Detection.pdf",
+          "link": "submitdownload.php?fileid=30"
+        },
+        "final doc": {
+          "name": "Final Project Documentation.pdf",
+          "link": "submitdownload.php?fileid=58"
+        },
+        "presentation": {
+          "name": "Project Presentation.pptx",
+          "link": "submitdownload.php?fileid=59"
+        },
+        "conference paper": {
+          "name": "Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=60"
+        },
+        "timestamp": "2017-04-20 06:29:07"
+      },
+      {
+        "group number": "16",
+        "group name": "SOPHOS Cyber Security Project",
+        "members": [
+          "Sara Brown",
+          "Jacob Garman",
+          "Brandon Wallace"
+        ],
+        "emails": [
+          "sarabrown@knights.ucf.edu",
+          "jbgarman.business@gmail.com",
+          "wallacebrandon@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "IoTProfilerDesignDocument.pdf",
+          "link": "submitdownload.php?fileid=109"
+        },
+        "presentation": {
+          "name": "Jacob's presentation.pptx",
+          "link": "submitdownload.php?fileid=110"
+        },
+        "conference paper": {
+          "name": "SDCP.pdf",
+          "link": "submitdownload.php?fileid=111"
+        },
+        "timestamp": "2017-04-24 21:04:08"
+      },
+      {
+        "group number": "17",
+        "group name": "INteractive GRaph Invariant Delimiter",
+        "members": [
+          "Steven Brown",
+          "Nathan Cruz",
+          "Kevin Duarte",
+          "Kyle Jones"
+        ],
+        "emails": [
+          "stevenbrown1234321@knights.ucf.edu",
+          "nathan.cruz@knights.ucf.edu",
+          "kevin_duarte@knights.ucf.edu",
+          "kyle.jones@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "INGRID Group 17 Final Design Documentation.pdf",
+          "link": "submitdownload.php?fileid=32"
+        },
+        "final doc": {
+          "name": "INGRIDFinalDOc.pdf",
+          "link": "submitdownload.php?fileid=153"
+        },
+        "presentation": {
+          "name": "ingridCDR (3) (1).pptx",
+          "link": "submitdownload.php?fileid=154"
+        },
+        "conference paper": {
+          "name": "SD2IngridPaper.pdf",
+          "link": "submitdownload.php?fileid=155"
+        },
+        "timestamp": "2017-04-26 18:20:28"
+      },
+      {
+        "group number": "18",
+        "group name": "Overlay",
+        "members": [
+          "Joshua Lawrence",
+          "Steven Parra",
+          "Josh Thorson"
+        ],
+        "emails": [
+          "joshtlaw@gmail.com",
+          "sparra95@gmail.com",
+          "joshthorson5@gmail.com"
+        ],
+        "design doc": {
+          "name": "Final Design Document.pdf",
+          "link": "submitdownload.php?fileid=31"
+        },
+        "final doc": {
+          "name": "FinalDocumentSpring2017Group18.pdf",
+          "link": "submitdownload.php?fileid=76"
+        },
+        "presentation": {
+          "name": "Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=77"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=78"
+        },
+        "timestamp": "2017-04-23 17:08:41"
+      },
+      {
+        "group number": "19",
+        "group name": "GOLD",
+        "members": [
+          "Justyn Chabowski-Carpino",
+          "Victoria Rodriguez",
+          "Arjun Watane"
+        ],
+        "emails": [
+          "justyn458@Knights.ucf.edu",
+          "Vickycrb@knights.ucf.edu",
+          "arjunwatane@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "gold_latex_final.pdf",
+          "link": "submitdownload.php?fileid=40"
+        },
+        "final doc": {
+          "name": "gold_latex_final.pdf",
+          "link": "submitdownload.php?fileid=127"
+        },
+        "presentation": {
+          "name": "CDR_VERSION 2.pptx",
+          "link": "submitdownload.php?fileid=128"
+        },
+        "conference paper": {
+          "name": "GOLD.pdf",
+          "link": "submitdownload.php?fileid=129"
+        },
+        "timestamp": "2017-04-26 00:55:21"
+      },
+      {
+        "group number": "20",
+        "group name": "Recurve",
+        "members": [
+          "Lee Berman",
+          "Amanda Forster",
+          "Fred Gravil",
+          "Christopher Linton"
+        ],
+        "emails": [
+          "lberman@knights.ucf.edu",
+          "forster.a.ucf@knights.ucf.edu",
+          "fgravil18@knights.ucf.edu",
+          "Clintonucf@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "Senior Design I Paper.pdf",
+          "link": "submitdownload.php?fileid=41"
+        },
+        "final doc": {
+          "name": "Senior Design I Final Paper.pdf",
+          "link": "submitdownload.php?fileid=94"
+        },
+        "presentation": {
+          "name": "Senior Design Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=95"
+        },
+        "conference paper": {
+          "name": "Conference_Paper.pdf",
+          "link": "submitdownload.php?fileid=96"
+        },
+        "timestamp": "2017-04-24 14:31:42"
+      },
+      {
+        "group number": "21",
+        "group name": "Quest!",
+        "members": [
+          "Christopher Buruchian",
+          "Hayden Speak",
+          "Travis  Stamper",
+          "Ricardo Vasquez"
+        ],
+        "emails": [
+          "cburuchian@knights.ucf.edu",
+          "hayden.speak@gmail.com",
+          "Stamper.travis.lamont@gmail.com",
+          "rvzxjr@gmail.com"
+        ],
+        "design doc": {
+          "name": "QuestFinalDesignManual.pdf",
+          "link": "submitdownload.php?fileid=18"
+        },
+        "final doc": {
+          "name": "QuestFinalManual.pdf",
+          "link": "submitdownload.php?fileid=82"
+        },
+        "presentation": {
+          "name": "Quest_Committee_Presentation_Without_Videos.pptx",
+          "link": "submitdownload.php?fileid=83"
+        },
+        "conference paper": {
+          "name": "Quest Conference Paper.pdf",
+          "link": "submitdownload.php?fileid=84"
+        },
+        "timestamp": "2017-04-24 01:00:08"
+      },
+      {
+        "group number": "22",
+        "group name": "UniShop",
+        "members": [
+          "Kevin Colley",
+          "Hector Hernandez",
+          "Daniel Kinney",
+          "Tyler Woodhull"
+        ],
+        "emails": [
+          "kjcolley7@gmail.com",
+          "hhernandez0706@hotmail.com",
+          "dkinney94@gmail.com",
+          "tyler.woodhull@gmail.com"
+        ],
+        "design doc": {
+          "name": "UniShop.pdf",
+          "link": "submitdownload.php?fileid=24"
+        },
+        "final doc": {
+          "name": "UniShop Final Documentation.pdf",
+          "link": "submitdownload.php?fileid=100"
+        },
+        "presentation": {
+          "name": "UniShop Final Presentation.pptx",
+          "link": "submitdownload.php?fileid=101"
+        },
+        "conference paper": {
+          "name": "SDCP-UniShop.pdf",
+          "link": "submitdownload.php?fileid=102"
+        },
+        "timestamp": "2017-04-24 16:31:43"
+      },
+      {
+        "group number": "23",
+        "group name": "KDispatch - CRM for the Transport Industry",
+        "members": [
+          "Alex Aldana",
+          "Brady Butler",
+          "Tyler Jones",
+          "Bradley Kovacs"
+        ],
+        "emails": [
+          "alex.aldana@knights.ucf.edu",
+          "Bradyb90@knights.ucf.edu",
+          "tyjones95@knights.ucf.edu",
+          "bradleyy1012@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "cop4934-final-project-documentation.pdf",
+          "link": "submitdownload.php?fileid=39"
+        },
+        "final doc": {
+          "name": "cop4935-final-project-documentation.pdf",
+          "link": "submitdownload.php?fileid=73"
+        },
+        "presentation": {
+          "name": "senior-design-presentation.pptx",
+          "link": "submitdownload.php?fileid=74"
+        },
+        "conference paper": {
+          "name": "ConferencePaper.pdf",
+          "link": "submitdownload.php?fileid=75"
+        },
+        "timestamp": "2017-04-23 16:41:52"
+      },
+      {
+        "group number": "24",
+        "group name": "MotionDetect",
+        "members": [
+          "Alex Andres",
+          "John Johnson",
+          "Khanh Nguyen"
+        ],
+        "emails": [
+          "alexkandres@gmail.com",
+          "Johnjohn2015@knights.ucf.edu",
+          "knguyen60@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "FinalDesignGroup24.pdf",
+          "link": "submitdownload.php?fileid=45"
+        },
+        "final doc": {
+          "name": "SeniorDesginFinalDocument_group24.pdf",
+          "link": "submitdownload.php?fileid=116"
+        },
+        "presentation": {
+          "name": "CDRSlides (1).pptx",
+          "link": "submitdownload.php?fileid=117"
+        },
+        "conference paper": {
+          "name": "SDCP.FormatFinish.pdf",
+          "link": "submitdownload.php?fileid=118"
+        },
+        "timestamp": "2017-04-25 14:01:05"
+      },
+      {
+        "group number": "25",
+        "group name": "Automated Tennis System",
+        "members": [
+          "Khoa Hoang",
+          "Michael Rathbun",
+          "Kyle Willnow",
+          "Aviel Yashar"
+        ],
+        "emails": [
+          "maximus64@knights.ucf.edu",
+          "Rathbun.michael@knights.ucf.edu",
+          "Kylwllnw@knights.ucf.edu",
+          "Avi@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "final_document.compressed.pdf",
+          "link": "submitdownload.php?fileid=8"
+        },
+        "final doc": {
+          "name": "SD2.compressed.pdf",
+          "link": "submitdownload.php?fileid=158"
+        },
+        "presentation": {
+          "name": "pre.pdf",
+          "link": "submitdownload.php?fileid=159"
+        },
+        "conference paper": {
+          "name": "confpaper.pdf",
+          "link": "submitdownload.php?fileid=160"
+        },
+        "timestamp": "2017-04-27 14:37:17"
+      },
+      {
+        "group number": "26",
+        "group name": "Streamr",
+        "members": [
+          "Tyler Petresky",
+          "Steven Petryk",
+          "Gregory White",
+          "Maxcell Wilson"
+        ],
+        "emails": [
+          "tnpetresky@gmail.com",
+          "me+ucf@stevenpetrky.com",
+          "gddwhite@gmail.com",
+          "sayhi@maxcell.me"
+        ],
+        "design doc": {
+          "name": "COP4939-FinalDocument.pdf",
+          "link": "submitdownload.php?fileid=7"
+        },
+        "final doc": {
+          "name": "FINAL_DOC_GROUP26.pdf",
+          "link": "submitdownload.php?fileid=52"
+        },
+        "presentation": {
+          "name": "Streamr Final Presentation.pdf",
+          "link": "submitdownload.php?fileid=53"
+        },
+        "conference paper": {
+          "name": "Streamr_Conference_Paper.pdf",
+          "link": "submitdownload.php?fileid=54"
+        },
+        "timestamp": "2017-04-19 14:49:33"
+      },
+      {
+        "group number": "27",
+        "group name": "Streamline Drafting",
+        "members": [
+          "Alejandro Figueroa",
+          "Jessie Maraman",
+          "Bryan Poulson",
+          "Kyle Rebello"
+        ],
+        "emails": [
+          "chachilin95@knights.ucf.edu",
+          "jessiemaraman@yahoo.com",
+          "bryanpoulson@yahoo.com",
+          "kylerebello@knights.ucf.edu"
+        ],
+        "design doc": {
+          "name": "FinalDocument.pdf",
+          "link": "submitdownload.php?fileid=11"
+        },
+        "final doc": {
+          "name": "FinalDocument.pdf",
+          "link": "submitdownload.php?fileid=46"
+        },
+        "presentation": {
+          "name": "CDR.pptx",
+          "link": "submitdownload.php?fileid=47"
+        },
+        "conference paper": {
+          "name": "StreamlineDraftingConference (1).pdf",
+          "link": "submitdownload.php?fileid=48"
+        },
+        "timestamp": "2017-04-18 17:00:08"
+      }
+    ]
+  },
+  "Fall 2016": {
+    "Senior Design 1": [
+      {
+        "group number": "10",
+        "group name": "Cultural VR Game",
+        "members": [
+          "Ibraheem Ally",
+          "Andrew Dignan",
+          "Nestor Maysonet",
+          "Kevin Taylor"
+        ],
+        "emails": [
+          "ally.ibraheem@gmail.com",
+          "DrewDignan@gmail.com",
+          "nj.maysonet@knights.ucf.edu",
+          "kevin.ed.taylor@gmail"
+        ],
+        "design doc": {
+          "name": "UCF Cultural VR Game Final Design Documentation Ver 1.pdf",
+          "link": "submitdownload.php?fileid=21"
+        },
+        "timestamp": "2016-12-07 14:51:54"
+      }
+    ],
+    "Senior Design 2": [
+      {
+        "group number": "1",
+        "group name": "SoundNStein",
+        "members": [
+          "Jamie Eldredge",
+          "Chris Schilling",
+          "Alexander Sommer",
+          "Eric Wysocki"
+        ],
+        "emails": [
+          "jamie@eldredgeonline.com",
+          "ChrisDSchill@gmail.com",
+          "alex.b.sommer@gmail.com",
+          "ericwysocki@gmail.com"
+        ],
+        "final doc": {
+          "name": "SoundNStein Design Documentation.pdf",
+          "link": "submitdownload.php?fileid=2"
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2016-12-02 15:24:36"
+      },
+      {
+        "group number": "2",
+        "group name": "UCP Bailes Elementary Teacher Dashboard",
+        "members": [
+          "Mario Carrasco",
+          "Christopher LaChance",
+          "Raphael Saint-Louis",
+          "Lyudmila Sandomirskaya"
+        ],
+        "emails": [
+          "carrascom1017@gmail.com",
+          "clachance26@yahoo.com",
+          "raphaelstlouis@gmail.com",
+          "milasandomi@gmail.com"
+        ],
+        "design doc": {
+          "name": "FinalDesignDocument (3).compressed.pdf",
+          "link": "submitdownload.php?fileid=147"
+        },
+        "final doc": {
+          "name": "FinalDesignDocumentation _merged2.pdf",
+          "link": "submitdownload.php?fileid=42"
+        },
+        "presentation": {
+          "name": "CDR_Fall2016.pptx",
+          "link": "submitdownload.php?fileid=43"
+        },
+        "conference paper": {
+          "name": "Group2_ConferencePaperDONE3.pdf",
+          "link": "submitdownload.php?fileid=44"
+        },
+        "timestamp": "2016-12-12 22:43:45"
+      },
+      {
+        "group number": "3",
+        "group name": "Polaris",
+        "members": [
+          "Ross Centanni",
+          "Miles Friedman",
+          "Alia Martyn",
+          "Denesh Totaram"
+        ],
+        "emails": [
+          "rosscentanni@gmail.com",
+          "milesfriedmanfl@gmail.com",
+          "alia.martyn@knights.ucf.edu",
+          "deneshtotaram@gmail.com"
+        ],
+        "final doc": {
+          "name": "SeniorDesign2FinalDocumentation.pdf",
+          "link": "submitdownload.php?fileid=6"
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2016-12-06 14:50:42"
+      },
+      {
+        "group number": "4",
+        "group name": "Mobile Inventory Tracking System",
+        "members": [
+          "Vatthikorn Apiratitham",
+          "Alex Doan",
+          "Robert Millward",
+          "Charles Steiner"
+        ],
+        "emails": [
+          "vapiratitham@gmail.com",
+          "alex.h.doan@gmail.com",
+          "meleechampion@gmail.com",
+          "danny.steiner1@gmail.com"
+        ],
+        "final doc": {
+          "name": "FinalDesignDocumentation-Group4.pdf",
+          "link": "submitdownload.php?fileid=35"
+        },
+        "presentation": {
+          "name": "MITS-Presentation.pdf",
+          "link": "submitdownload.php?fileid=36"
+        },
+        "conference paper": {
+          "name": "SDCP_MITS.pdf",
+          "link": "submitdownload.php?fileid=37"
+        },
+        "timestamp": "2016-12-11 23:09:33"
+      },
+      {
+        "group number": "6",
+        "group name": "No A.N.G.S.T.",
+        "members": [
+          "Brian Boudreaux",
+          "Adam Levy",
+          "James Mirvil",
+          "Jesse Roberson"
+        ],
+        "emails": [
+          "bjboud@knights.ucf.edu",
+          "alevy01@gmail.com",
+          "jmirvil@knights.ucf.edu",
+          "jdroberson@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "StressHealthFinalDocument (4).pdf",
+          "link": "submitdownload.php?fileid=1"
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2016-12-02 13:51:24"
+      },
+      {
+        "group number": "9",
+        "group name": "Study Group (Study Squirrels)",
+        "members": [
+          "Gabriel Babilonia",
+          "Martha Cornejo",
+          "Michael Garber",
+          "Sammy Israwi"
+        ],
+        "emails": [
+          "gabrielbabilonia@outlook.com",
+          "marthacornejo2@gmail.com",
+          "god@knights.ucf.edu",
+          "sammy.israwi@gmail.com"
+        ],
+        "final doc": {
+          "name": "final_document_v2.pdf",
+          "link": "submitdownload.php?fileid=10"
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2016-12-06 20:13:04"
+      },
+      {
+        "group number": "10",
+        "group name": "Damage Reporting on Necessary and Essential Structures",
+        "members": [
+          "Chris Grenci",
+          "Angelo Montagner",
+          "Ernest Wheaton"
+        ],
+        "emails": [
+          "cgrenci@knights.ucf.edu",
+          "amontagneredu@gmail.com",
+          "ernie_wheaton@knights.ucf.edu"
+        ],
+        "final doc": {
+          "name": "FinalDocument.pdf",
+          "link": "submitdownload.php?fileid=4"
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2016-12-05 02:11:00"
+      },
+      {
+        "group number": "11",
+        "group name": "Nimble Flight Simulator",
+        "members": [
+          "Arabo Babakhani",
+          "Robert Bland",
+          "Matthew Busch"
+        ],
+        "emails": [
+          "arabo@outlook.com",
+          "bbworld95@gmail.com",
+          "mattebusch@gmail.com"
+        ],
+        "final doc": {
+          "name": "PaperLink.pdf",
+          "link": "submitdownload.php?fileid=5"
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2016-12-05 13:16:24"
+      },
+      {
+        "group number": "12",
+        "group name": "PsychVR",
+        "members": [
+          "John Barber",
+          "Peter Lomason",
+          "Eric Momper"
+        ],
+        "emails": [
+          "TheJohnBarber@knights.ucf.edu",
+          "PeterLomason@gmail.com",
+          "emomper23@gmail.com"
+        ],
+        "final doc": {
+          "name": "PsychVRDesignDocumentFileSizeIssue.pdf",
+          "link": "submitdownload.php?fileid=3"
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2016-12-04 22:32:44"
+      },
+      {
+        "group number": "13",
+        "group name": "V.E.D.I.C.",
+        "members": [
+          "William Funk",
+          "Jorge Rodriguez",
+          "James Vinson"
+        ],
+        "emails": [
+          "wfunk@knights.ucf.edu",
+          "jito.rodriguez@outlook.com",
+          "vinsonjames02@gmail.com"
+        ],
+        "final doc": {
+          "name": "FinalVedic.pdf",
+          "link": "submitdownload.php?fileid=33"
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2016-12-08 19:00:52"
+      },
+      {
+        "group number": "14",
+        "group name": "SpaceMate",
+        "members": [
+          "Austin Nicholas",
+          "Ivey Padgett",
+          "Jonathan Warner"
+        ],
+        "emails": [
+          "anicholas1447@gmail.com",
+          "iveysaurrr@gmail.com",
+          "jaxbot@gmail.com"
+        ],
+        "final doc": {
+          "name": "SpaceMateFinal.pdf",
+          "link": "submitdownload.php?fileid=38"
+        },
+        "presentation": {
+          "name": ""
+        },
+        "conference paper": {
+          "name": ""
+        },
+        "timestamp": "2016-12-11 23:28:19"
+      }
+    ]
+  }
+}

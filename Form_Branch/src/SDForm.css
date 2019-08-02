@@ -1,0 +1,148 @@
+body {
+  background-color: rgba(242, 196, 19, 1);
+}
+
+.UCFLogo {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.SDForm {
+  background-color: white;
+  text-align: left;
+  padding: 1em;
+  border-radius: .5em;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+}
+
+.LoginForm {
+  background-color: white;
+  text-align: center;
+  padding: 1em;
+  border-radius: .5em;
+  vertical-align: middle;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: auto;
+  margin-top: 40px;
+}
+
+.LoginInfo {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  box-align: center;
+}
+
+.textObject {
+  width: 500px;
+  margin-right: auto;
+}
+
+.textObjectModal {
+  width: 300px;
+  margin-right: auto;
+}
+
+.textObjectNum {
+  width: 200px;
+  margin-right: auto;
+}
+
+.menuBar {
+  background-color: white;
+  padding: 1em;
+  border-radius: .5em;
+  text-align: center;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  margin-top: 50px;
+}
+
+.form {
+  padding: 1em;
+  padding-left: 1em;
+}
+
+.errorMsg {
+  color: #cc0000;
+  margin-bottom: 12px;
+}
+
+.LoginPad {
+  padding-top: 40px;
+}
+
+.mainTitles {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-weight: bolder;
+}
+
+.rankTitles {
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  font-weight: bolder;
+}
+
+.otherText {
+  text-align: center;
+  font-weight: lighter;
+  font-size: small;
+}
+
+.subTitle {
+  text-align: center;
+  justify-content: center;
+}
+
+.projectList {
+  justify-content: center;
+  border-radius: .5em;
+}
+
+.rankCols {
+  width: 60px;
+  margin-inline-start: auto;
+}
+
+label {
+  display: flex;
+  font-weight: 600;
+}
+
+.otherButton {
+  height: 30px;
+  width: 20px;
+  padding-left: 5px;
+  padding-top: 5px;
+  text-align: right;
+}
+
+.checkboxes {
+  height: 15px;
+  width: 15px;
+  margin: auto;
+}
+
+button {
+  justify-content: center;
+  flex-direction: column;  
+}
+
+img {
+  width: 25%;
+  height: 25%;
+  object-fit: contain;
+}
+

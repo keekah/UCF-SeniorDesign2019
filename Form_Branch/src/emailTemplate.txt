@@ -1,0 +1,10 @@
+------------------------------------------------------------------------------
+
+An account has been created to log into your Senior Design 1 assignment 1. 
+Do not share this password.
+
+email: {{email}}
+password: {{password}}
+
+Do not reply to this email.
+------------------------------------------------------------------------------

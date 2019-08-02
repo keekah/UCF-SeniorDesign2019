@@ -1,0 +1,23 @@
+Admin App Manual
+
+1. Select a Term and Year to begin. The app is currently set to automatically go to 
+      Fall 2019 if nothing is selected. This can be changed at the top of AdminApp.js
+
+2. Add projects to term on the "Add Projects" tab. Projects can be viewed and edited
+      from the "View Projects" tab.
+
+3. Once all projects have been added, you can create student accounts by navigating to
+      the "Add Students". You can either download the .csv from myucf with the student
+      roster and upload it, or copy and paste the column with all the emails which
+      should be separated by spaces.
+
+4. Upon adding students, they will receive an email with their login info and they will
+      be able to fill out and submit their Assignment 1. Upon submission, they will be
+      visible from the "View Students" tab, you can view their resumes and delete
+      students, as necessary.
+
+Once students have submitted their assignment one, you can navigate to the grid and
+begin the project assignment with the scheduler. Once this is finilized, you can view 
+the groups from the "Groups" tab.
+
+

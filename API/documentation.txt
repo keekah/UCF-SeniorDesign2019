@@ -1,0 +1,101 @@
+VM info
+-username: "student"
+-password: "Group4!_"
+-ip: 10.171.204.211
+
+Running the django server
+1) make sure the VM IP is in "ALLOWED_HOSTS" in settings.py
+2) run "sudo python manage.py makemigrations"
+	-this will create the db. 
+3) run "sudo python manage.py migrate"
+	-this will apply changes to db or actually create the db
+4) run "sudo python manage.py runserver 0.0.0.0:{port number you wish to use}
+5) server should be running
+Note: If you ever add changes to the db manually or by making a change in models.py, run steps
+2 and 3 again before starting server
+
+Running the reactJS servers
+Note: hopefully the other members have written how to compile their projects as I won't be covering
+that here
+1) Navigate to where the project file is "cms" or "csform" unless they have changed it
+2) run "sudo PORT={port number you want to run on} npm start
+
+
+The code has been well commented to explain what each function does
+
+-Settings.py
+If you move this project to a new server go into settings.py and add the IP to allowed hosts
+You'll most likely need to install packages if you rebase this project. Keep that in mind
+A good starting point to see what is installed is to view INSTALLED_APPS in settings.py as well as MIDDLEWARE
+To change the db name or to change the db software check DATABASES in settings.py
+
+-urls.py
+This will be where you define endpoints, there are some good comments at the top on how to do this
+
+-__init__.py and admin.py
+These were never used, but made by initializing the project. Not sure if safe to remove or not
+
+-apps.py
+This just defines what your main app is. If you start renaming folders be careful since Django
+has lots of functions with filenames as input
+
+-cms.py
+empty file. Most likely can be deleted
+
+-helpers.py
+This holds most of the functions used that are not intended to be endpoints. Most of it is
+changing json structures to be used by the front end and the reverse to be used by the scheduler
+unfortunatly since we all worked seperately on our parts there isnt one end to end json format.
+
+-models.py
+This is where you define your database tables. Django automatically adds a field called "id" that is a pk
+for any model added. So theres no need to include an ID when making models. This file is pretty self explanitory
+"blank=true" means can be null.
+
+-serializers.py this was meant to be the main way of using models, but it proved to be too ridgid. Can be removed
+
+-tests.py
+This is where you would define test cases. Automatically made by Django, not sure if it can be removed
+
+-views.py
+This is where the magic happens. All endpoints reside here. I've added comments at the top of each function explaining
+what it does. Hopefully that is enough to understand what is going on.
+
+To manually add or change CMS projects / members
+-There are functions in views.py that will help with this. Youll need to call GetCMSProjects
+which will give you the ID's and then from there you can use EditCMSProject / delete. You can also create new
+ones. To see all the functions that handle this use ctrl + f and search for "CMSProject" or "CMSMember"
+-If those fail or don't do what you need, you can either use the command line SQLITE3 software to 
+manually create queries on the db, or take the server down, download the db, use a gui, and reupload.
+
+To manually add an admin account
+-Use the create account endpoint as normal
+-Go into the db and set the desire users is_staff bit to 1
+-Save
+
+
+
+To use Spring2019-Group04/cms/scraper/scraper.js (in case of accidental deletion) :
+
+1. On UCF network or vpn, download the page source of http://sdw.cs.ucf.edu/viewsubmits.php
+
+2. Paste the source on jsbin.com in the HTML window. Add library > jQuery 3.1.0 to enable jQuery. Alternatively, add <script src="https://code.jquery.com/jquery-3.1.0.js"></script> to the <body> of the page source.
+
+3. Paste scraper.js into the JavaScript window.
+
+4. Click "Run" in console window. Output will be shown in JSON format. Remove quotations around output body and use a text editor's search and replace function to replace \" with "
+
+
+To update npm packages: 
+
+1. Use 'npm update' to update already installed packages. 
+
+2. Alternatively, use 'npm outdated' to see which packages have newer versions released. To update a specific package, use 'npm install package_name@latest --save' to get the latest version and update package.json
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+To use Spring2019-Group04/cms/scraper/scraper.js (in case of accidental deletion) :
+
+1. On UCF network or vpn, download the page source of http://sdw.cs.ucf.edu/viewsubmits.php
+
+2. Paste the source on jsbin.com in the HTML window. Add library > jQuery 3.1.0 to enable jQuery. Alternatively, add <script src="https://code.jquery.com/jquery-3.1.0.js"></script> to the <body> of the page source.
+
+3. Paste scraper.js into the JavaScript window.
+
+4. Click "Run" in console window. Output will be shown in JSON format. Remove quotations around output body and use a text editor's search and replace function to replace \" with "
+
+
+To update npm packages: 
+
+1. Use 'npm update' to update already installed packages. 
+
+2. Alternatively, use 'npm outdated' to see which packages have newer versions released. To update a specific package, use 'npm install package_name@latest --save' to get the latest version and update package.json
+
+
+Kika Wingert
+July 31, 2019

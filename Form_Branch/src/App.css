@@ -1,0 +1,126 @@
+.App {
+  font-size: medium;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.App main {
+  background-color: darkgrey;
+  padding: 10px;
+  border-radius: .5em;
+}
+
+.App ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.App ul li {
+  background-color: darkgrey;
+  text-align: left;
+  padding: 10px 20px;
+  display: flex;
+  width: auto;
+}
+
+.App li .drag {
+  margin-right: 15px;
+  cursor: move;
+}
+
+.App li svg {
+  height: 20px;
+  color: black;
+}
+
+.borderRank {
+  border-radius: .5em;
+}
+
+.setApp {
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  box-align: center;
+}
+.setApp2 {
+  width: 150px;
+  margin-left: 200px;
+  margin-right: auto;
+  box-align: center;
+}
+
+.adminBar {
+  background-color: white;
+  text-align: center;
+  border-radius: .5em;
+  width: auto;
+  vertical-align: middle;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.termText {
+  text-align: left;
+}
+
+#title {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+#projects {
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+#projects td, #projects th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#projects tr:nth-child(even){background-color: #f2f2f2;}
+
+#projects tr:hover {background-color: #ddd;}
+
+#projects th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: rgba(242, 196, 19, 1);
+  color: white;
+}
+
+#groups {
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+  width: 60%;
+  margin-bottom: 30px;
+  margin: auto;
+
+}
+
+#groups td, #groups th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#groups tr:nth-child(even){background-color: #f2f2f2;}
+
+#groups tr:hover {background-color: #ddd;}
+
+#groups th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: rgba(242, 196, 19, 1);
+  color: white;
+}
