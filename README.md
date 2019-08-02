@@ -1,15 +1,15 @@
 # Spring2019-Group04
 Stephen Powell<br />
-Tyler Cuervo
-Mariana Gomez Kusnecov
-Jessica Wingert
-Iryna Protasova
+Tyler Cuervo<br />
+Mariana Gomez Kusnecov<br />
+Jessica Wingert<br />
+Iryna Protasova<br />
 
 # Senior Design Group Scheduling Algorithm and Content Management System
-This project was split into two parts.
+This project was split into two parts.<br />
 **Group Scheduler** and **Content Management System**
 
-The **Group Scheduler** was meant to shorten the time it takes to assign students to projects for UCF CS Senior Design 
+The **Group Scheduler** was meant to shorten the time it takes to assign students to projects for UCF CS Senior Design<br />
 The **Content Management System** was meant to remake the UCF CS Senior Design website and display groups better
 
 # Installation
@@ -26,7 +26,11 @@ Note: If you ever add changes to the db manually or by making a change in models
     2 and 3 again before starting server
 
 Running the reactJS servers
-Note: hopefully the other members have written how to compile their projects as I won't be covering
-    that here
-1) Navigate to where the project file is "cms" or "csform" unless they have changed it
-2) run "sudo PORT={port number you want to run on} npm start
+1) install node.js onto the server
+2) navigate to react project directory (contains package.json) in terminal
+3) run "npm install" ( this will install all dependencies for the project you can ignore vulnerabilities)
+4) run "sudo PORT={port number you want to run on} npm start" to test the server
+5) if there is any dependencies that it cannot locate such as "@css/normalize.css" you can install them with "npm i @css/normalize.css"
+6) repeat 4-5 until webpage loads on localhost:{port#}
+7) to build the project you run "npm run build" in the terminal
+8) you will then have a build folder inside the project directory. put all of the contents of the build directory (such as index.html) inside the root directory
