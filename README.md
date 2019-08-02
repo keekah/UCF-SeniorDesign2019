@@ -1,5 +1,5 @@
 # Spring2019-Group04
-Stephen Powell
+Stephen Powell<br />
 Tyler Cuervo
 Mariana Gomez Kusnecov
 Jessica Wingert
