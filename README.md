@@ -21,7 +21,7 @@ Running the django server
 3) run "sudo python manage.py migrate"
     -this will apply changes to db or actually create the db
 4) run "sudo python manage.py runserver 0.0.0.0:{port number you wish to use}
-5) server should be running
+5) server should be running<br />
 Note: If you ever add changes to the db manually or by making a change in models.py, run steps
     2 and 3 again before starting server
 
