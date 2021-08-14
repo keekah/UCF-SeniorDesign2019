@@ -2,7 +2,7 @@
 Stephen Powell<br />
 Tyler Cuervo<br />
 Mariana Gomez Kusnecov<br />
-Jessica Wingert<br />
+Kika Wingert<br />
 Iryna Protasova<br />
 
 # Senior Design Group Scheduling Algorithm and Content Management System
